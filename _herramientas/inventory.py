@@ -1,6 +1,8 @@
 # inventario: pdf -> carpeta base (nombres según tabla del superprompt)
 from pathlib import Path
-REPO = Path(r"C:\Users\diego\Canciones")
+import sys
+sys.path.insert(0, str(Path(__file__).parent))
+from rutas import REPO
 FOLDERS = ["Español", "Inglés", "Navidad", "Rumano"]
 OVERRIDES = {
     "andaba yo sin paz": "Andaba yo sin paz",

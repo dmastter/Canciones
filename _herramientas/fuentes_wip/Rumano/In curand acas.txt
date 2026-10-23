@@ -1,0 +1,11 @@
+title: In curand acas
+composer: E. E. Hewitt
+lyricist: E. E. Hewitt
+arranger: Wayne Hooper
+key: Ab
+time: 4/4
+tempo: 100
+source: SDA Hymnal 626 "In a Little While We're Going Home" (E. E. Hewitt; arr. Wayne Hooper, Key Music Co. 1959) segun hymnsforworship.org; tempo no impreso en el PDF -> 100. Escaneo fotografico muy borroso; armadura 4 bemoles (Ab) leida en ambos pentagramas; anotacion manual "FA MAJOR" en el PDF.
+
+# SIN NOTAS VERIFICADAS TODAVIA (lectura del escaneo en curso)
+# HASTA AQUI VERIFICADO: c.0

@@ -1,0 +1,24 @@
+title: It's Me O Lord
+composer: Negro Spiritual
+lyricist:
+arranger: J. Rosamond Johnson
+key: G
+time: 4/4
+tempo: 100
+source: PDF escaneado (Moderato, mp, Negro Spiritual, Arr. by J. Rosamond Johnson; Colegio Adventista del Plata). Con D.S. al Fine y 2 estrofas: se escribe en forma expandida. Busqueda web: spiritual tradicional "It's me, it's me, O Lord (Standin' in the need of prayer)", arreglo en The Book of American Negro Spirituals (1925, J. Rosamond Johnson); tempo no indicado salvo Moderato -> 100. Escrito T1/T2 = lineas de clave de Sol 8vb (altura real una octava bajo lo escrito).
+
+@0
+T1: b3
+T2: g3
+B1: r
+B2: r
+L: It's
+
+@1
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f3 e3 eb3
+L: me, it's me, it's
+
+# HASTA AQUÍ VERIFICADO: c.1 (c.0 = anacrusa, ritmo de la anacrusa por confirmar)

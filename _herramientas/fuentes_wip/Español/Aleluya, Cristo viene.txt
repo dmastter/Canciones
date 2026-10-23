@@ -10,6 +10,8 @@ source: PDF original (escaneo, 1 pág., 2 pentagramas S+A / T+B leídos como Sol
 @0
 T1: \mf e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 f#3/8 | g#3/2 b2
 T2: e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ cn3/8 cn3/8 | b2/2 b2
-B1: r | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2.
+B1: r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2.
 B2: =B1
 L.TT: Cris- to | es mi | sal- va- | dor | Cris- to | es mi | sal- va- | dor | Cris- to | es mi
+
+# HASTA AQUÍ VERIFICADO: c.9 (s1 releído contra imagen; faltan comprobar con zoom los c.4-7 y el mf; el resto del DSL aún sin escribir)

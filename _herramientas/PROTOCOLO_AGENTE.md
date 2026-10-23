@@ -3,10 +3,10 @@
 Eres un transcriptor musical. Tu trabajo: convertir UN PDF de partitura coral en `partitura.musicxml` (4 voces: Tenor 1, Tenor 2, Barítono, Bajo, + piano sólo si la partitura original lo lleva) y generar todos los ficheros de salida con las herramientas ya hechas. **Precisión absoluta: ni una nota inventada, ni una omitida, letra exactamente como está impresa.** No hagas commits de git. No toques otras canciones.
 
 ## Rutas
-- Herramientas: `C:\Users\diego\Canciones_work\` (`omrtool.py`, `guide.py`, `dsl.py`, `export.py`, `qa.py`).
-- Carpeta de trabajo de tu canción: `C:\Users\diego\Canciones_work\omr\<WORK>\` con `in.pdf`, `in.mxl` (lectura OMR de Audiveris), `draft.txt` (borrador en formato DSL), `crops\pN_sM.png` (recortes de cada sistema a 300 dpi).
-- Fichero DSL que debes escribir: `C:\Users\diego\Canciones_work\songs\<Carpeta>\<Canción>.txt`.
-- Carpeta de salida (ya existe o la crea `export.py`): `C:\Users\diego\Canciones\<Carpeta>\<Canción>\`.
+- Herramientas: `C:\Users\ESB0001672\Canciones_work\` (`omrtool.py`, `guide.py`, `dsl.py`, `export.py`, `qa.py`, `review.py`; rutas de MuseScore/Audiveris en `rutas.py`).
+- Carpeta de trabajo de tu canción: `C:\Users\ESB0001672\Canciones_work\omr\<WORK>\` con `in.pdf`, `in.mxl` (lectura OMR de Audiveris), `draft.txt` (borrador en formato DSL), `crops\pN_sM.png` (recortes de cada sistema a 300 dpi).
+- Fichero DSL que debes escribir: `C:\Users\ESB0001672\Canciones_work\songs\<Carpeta>\<Canción>.txt`.
+- Carpeta de salida (ya existe o la crea `export.py`): `C:\Users\ESB0001672\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\canciones\<Carpeta>\<Canción>\`.
 - Ejecuta python siempre con `PYTHONUTF8=1` (bash: `PYTHONUTF8=1 python ...`). Ignora los `warnings` de music21/requests.
 - Si falta `in.mxl`/`draft.txt`/`crops`: `PYTHONUTF8=1 python omrtool.py all "<pdf>" "omr/<WORK>" spa+eng` (usa `ron+eng` para rumano, `eng` para inglés).
 
@@ -55,13 +55,14 @@ L: A Cris- to co- ro- | nad di- | vi- no Sal- va- | dor, Sen-
 
 ## Paso 4 — Exportar y verificar
 ```
-cd C:\Users\diego\Canciones_work
-PYTHONUTF8=1 python export.py "songs/<Carpeta>/<Canción>.txt" "C:/Users/diego/Canciones/<Carpeta>/<Canción>"
-PYTHONUTF8=1 python qa.py "C:/Users/diego/Canciones/<Carpeta>/<Canción>" <nº compases>
+cd C:\Users\ESB0001672\Canciones_work
+PYTHONUTF8=1 python export.py "songs/<Carpeta>/<Canción>.txt" "C:/Users/ESB0001672/OneDrive - Prosegur Cia. De Seguridad, S.A/Documentos/canciones/<Carpeta>/<Canción>"
+PYTHONUTF8=1 python qa.py "C:/Users/ESB0001672/OneDrive - Prosegur Cia. De Seguridad, S.A/Documentos/canciones/<Carpeta>/<Canción>" <nº compases>
 ```
 - Resuelve TODOS los `ERROR`/`AVISO` de `export.py` (sumas de compás, sílabas).
 - Renderiza el resultado y compáralo con el original sistema a sistema:
-  `"/c/Program Files/MuseScore 4/bin/MuseScore4.exe" "<carpeta>/Edicion/partitura.mscz" -o omr/<WORK>/final.png` (crea `final-1.png`, ...; redúcelos con PIL a ~1500 px de ancho antes de mirarlos). Corrige el DSL y vuelve a exportar hasta que coincida nota a nota.
+  `"/c/Users/ESB0001672/AppData/Local/canciones_tools/MuseScore/MuseScore 4/bin/MuseScore4.exe" "<carpeta>/Edicion/partitura.mscz" -o omr/<WORK>/final.png` (crea `final-1.png`, ...; redúcelos con PIL a ~1500 px de ancho antes de mirarlos). Corrige el DSL y vuelve a exportar hasta que coincida nota a nota.
+- Alternativa: `PYTHONUTF8=1 python review.py "<Carpeta>" "<Canción>" "<pdf original>"` deja `orig-N.png` y `final-N.png` (1500 px) en `review/<tag>/`.
 - `qa.py` debe decir `QA_PASS`.
 
 ## Paso 5 — Informe final (tu último mensaje)
