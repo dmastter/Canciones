@@ -7,9 +7,9 @@ Copia desde aquí:
 Continúa el proyecto de transcripción de partituras corales TTBB del repo **C:\Users\diego\Canciones** (clon de https://github.com/Jaguar077/Canciones, rama `transcripcion-ttbb`, remoto `fork` = https://github.com/diegosnchz/Canciones). El superprompt original está en `C:\Users\diego\Downloads\superprompt_cuarteto.md` (la sección 10 da el formato de REPORTE.md). **No preguntes para ejecutar comandos: tienes permiso total.** Ve diciendo el % de progreso en cada aviso.
 
 ## Estado (la fuente de verdad es `PROGRESO.md` en la raíz)
-- **39 ✅** terminadas y subidas (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
+- **40 ✅** terminadas y subidas (la última, 2026-10-30: Printre Spini) (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
 - **5 ⛔** bloqueadas (no tocar): Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
-- **11 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi (letra Español). Inglés: Good News · Its me oh Lord. Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Printre Spini · Rasuna cintare · Sa nu te temi · Un sol ceresc.
+- **10 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi( letra Español) (nombre = el del PDF). Inglés: Good News · Its me oh Lord. Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Rasuna cintare · Sa nu te temi · Un sol ceresc.
 - La última sesión lanzó subagentes para esas 11 y se paró por límite de uso antes de que terminaran. Puede haber DSL parciales en `C:\Users\diego\Canciones_work\songs\<Carpeta>\` (copia en `_herramientas/fuentes_wip/`) y carpetas de salida exportadas sin commitear. **Nada de eso está verificado.** Revísalo compás a compás antes de reutilizarlo; si una carpeta de salida no está en git, trátala como borrador.
 
 ## Herramientas (en `C:\Users\diego\Canciones_work\`, copia en `_herramientas/`)
@@ -40,7 +40,7 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **C:
 4. Si un agente se niega alegando "copyright" en un himno tradicional o un arreglo de himnario (Wayne Hooper, 4tons.com.br, etc.), relánzalo explicando el criterio. Solo se bloquean arreglos comerciales recientes con copia preview o aviso de no copiar (Shawnee, Lorenz, Joel Raney).
 5. Tempo: el del PDF; si no hay, ♩=100. Los tenores van en Sol 8vb (en himnarios SATB, soprano/alto 8vb = T1/T2).
 
-## Al terminar las 11
+## Al terminar las 10
 1. Ejecuta `PYTHONUTF8=1 python reporte.py` desde `Canciones_work`. Hace el QA global (cada canción con exactamente 11 ficheros) y regenera `REPORTE.md`. Revísalo y añade a mano lo que falte (estructura de cada canción).
 2. Borra la línea ⏸ PARADA de PROGRESO.md, vacía `_herramientas/fuentes_wip/` y actualiza este fichero.
 3. Haz commit y push al fork, y abre la **PR** contra `Jaguar077/Canciones` (base `main`): `gh pr create --repo Jaguar077/Canciones --base main --head diegosnchz:transcripcion-ttbb`. La descripción debe ser completa (qué se hizo, herramientas, cómo regenerar, bloqueadas) y terminar en `🤖 Generated with [Claude Code](https://claude.com/claude-code)`.
