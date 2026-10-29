@@ -1,0 +1,18 @@
+title: Sa nu te temi
+composer:
+lyricist:
+arranger:
+key: Db
+time: 6/8
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pág., 4 sistemas de 2 pentagramas SATB: Sol arriba leída como Sol 8vb para T1/T2, Fa abajo B1/B2; título impreso "46. SĂ NU TE TEMI"; letra española manuscrita en mayúsculas, 3 estrofas). Misma canción que Rumano/Sa nu te temi.pdf. Búsqueda web pendiente. Tempo no impreso: 100.
+
+@1
+T1: f3/8 gb3/8 g3/8 ab3/8 db4/8 eb4/8 | f4 eb4/8 db4. | ab3/8 c4/8 bb3/8 gb3 bb3/8 | ( ab3. f3._ )
+T2: db3/8 eb3/8 e3/8 f3/8 db4/8 gb3/8 | ab3 gb3/8 f3. | gb3/8 gb3/8 ab3/8 eb3 gb3/8 | ( f3. db3._ )
+B1: f3/8 gb3/8 g3/8 ab3/8 db4/8 bb3/8 | db4 bb3/8 ab3. | c4/8 eb4/8 db4/8 c4 c4/8 | db4.~ db4.
+B2: f2/8 gb2/8 g2/8 ab2/8 db3/8 ab2/8 | db3 ab2/8 db3. | ab2+ab3/8 ab2+ab3/8 ab2+ab3/8 ab2+ab3 ab2+ab3/8 | db3+db2. ab3+db3+db2._
+L: En tus a- fa- nes y_en | tu do- lor | Dios cui- da- ra de | ti
+L2: Sí des- fa- lle- ces en | tu la- bor | Dios cui- da- ra de | ti
+L3: Nun- ca la prue- ba su- | cum- bi- rás | Dios cui- da- ra de | ti
+# HASTA AQUÍ VERIFICADO: c.4 (sin export aún)

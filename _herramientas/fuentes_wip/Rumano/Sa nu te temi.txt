@@ -1,0 +1,17 @@
+title: Sa nu te temi
+composer:
+lyricist:
+arranger:
+key: Db
+time: 6/8
+tempo: 100
+source: PDF original (escaneo, 1 pag., 4 sistemas de 2 pentagramas: Sol arriba -> T1/T2 (Sol 8vb), Fa abajo -> B1/B2; titulo impreso "46. SA NU TE TEMI" con diacriticos; letra rumana impresa 2 estrofas + 3a manuscrita). Misma cancion que Espanol/Sa nu te temi (letra Espanol): c.1-2 cotejados entre ambos. Busqueda web omitida por tiempo. Tempo no impreso: 100.
+
+@1
+T1: f3/8 gb3/8 gn3/8 ab3/8 db4/8 eb4/8 | f4 eb4/8 db4.
+T2: db3/8 eb3/8 en3/8 f3/8 db4/8 gb3/8 | ab3 gb3/8 f3.
+# NOTA DEDUCIDA: B1/B2 c.1-2 tomados del DSL espanol (el pentagrama de Fa del escaneo rumano esta muy borroso); no confirmados visualmente nota a nota.
+B1: f3/8 gb3/8 g3/8 ab3/8 db4/8 bb3/8 | db4 bb3/8 ab3.
+B2: f2/8 gb2/8 g2/8 ab2/8 db3/8 ab2/8 | db3 ab2/8 db3.
+L: Să nu te te- mi de | vi- i- tor,
+# HASTA AQUÍ LEÍDO PARCIALMENTE: c.2 (T1/T2 por conteo, ritmo, alteraciones y cotejo con el DSL español, NO leídos nota a nota; B1/B2 copiados del español y deducidos: sin verificar); faltan c.3-... (resto del sistema 1 y sistemas 2-4)

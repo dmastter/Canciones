@@ -8,7 +8,8 @@ import sys, os, re, zipfile, subprocess, shutil
 from pathlib import Path
 from fractions import Fraction
 
-AV = r"C:\Users\diego\Canciones_work\audiveris\Audiveris\Audiveris.exe"
+sys.path.insert(0, str(Path(__file__).parent))
+from rutas import AV
 
 
 def run(pdf, work, lang="spa+eng"):

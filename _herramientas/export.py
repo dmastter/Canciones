@@ -8,7 +8,7 @@ from music21 import converter, stream, instrument, metadata, layout
 import mido
 import dsl
 
-MS = r"C:\Program Files\MuseScore 4\bin\MuseScore4.exe"
+from rutas import MS
 VOICES = [("Tenor1", 0), ("Tenor2", 1), ("Baritono", 2), ("Bajo", 3)]
 VEL = {"pp": 40, "p": 55, "mp": 65, "mf": 80, "f": 100, "ff": 120}
 
