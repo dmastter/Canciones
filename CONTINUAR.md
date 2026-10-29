@@ -15,9 +15,9 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **ht
 - Todas las rutas de máquina están en `_herramientas/rutas.py` (se pueden forzar con `CANCIONES_REPO`, `CANCIONES_WORK`, `MUSESCORE`, `AUDIVERIS`). En otro PC basta con ajustar ese fichero.
 
 ## Estado (la fuente de verdad es `PROGRESO.md` en la raíz)
-- **40 ✅** terminadas y subidas (la última, 2026-10-30: Printre Spini) (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
+- **41 ✅** terminadas y subidas (las últimas, 2026-10-30: Printre Spini, Its me oh Lord) (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
 - **6 ⛔** bloqueadas (no tocar): Good News (arr. Wayne Hooper, © 1963 Key Music Co.; bloqueada por decisión del usuario el 2026-10-30), Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
-- **9 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi( letra Español) (nombre = el del PDF; el WIP antiguo usa 'Sa nu te temi (letra Español)'). Inglés: Its me oh Lord. Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Rasuna cintare · Sa nu te temi · Un sol ceresc.
+- **8 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi( letra Español) (nombre = el del PDF; el WIP antiguo usa 'Sa nu te temi (letra Español)'). Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Rasuna cintare · Sa nu te temi · Un sol ceresc.
 - Lo que haya a medias está en `_herramientas/fuentes_wip/` (DSL parciales). Cada uno acaba con `# HASTA AQUÍ ...`: lo anterior lo leyó un subagente u orquestador contra la imagen, pero **la revisión global sigue pendiente**. El detalle por canción está en la línea ⏸ PARADA de `PROGRESO.md`. Resumen de la parada del 2026-10-29 11:10Z:
   - Good News: BLOQUEADA (ya no se continúa; WIP c.0-40 conservado).
   - Aleluya: c.0-10.
@@ -61,7 +61,7 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **ht
 4. Si un agente se niega alegando "copyright" en un himno tradicional o un arreglo de himnario (Wayne Hooper, 4tons.com.br, etc.), relánzalo explicando el criterio. Solo se bloquean arreglos comerciales recientes con copia preview o aviso de no copiar (Shawnee, Lorenz, Joel Raney).
 5. Tempo: el del PDF; si no hay, ♩=100. Los tenores van en Sol 8vb (en himnarios SATB, soprano/alto 8vb = T1/T2).
 
-## Al terminar las 9
+## Al terminar las 8
 1. Ejecuta `PYTHONUTF8=1 python reporte.py` desde `Canciones_work`. Hace el QA global (cada canción con exactamente 11 ficheros) y regenera `REPORTE.md`. Revísalo y añade a mano lo que falte (estructura de cada canción).
 2. Borra la línea ⏸ PARADA de PROGRESO.md, vacía `_herramientas/fuentes_wip/` y actualiza este fichero.
 3. Haz commit y push al fork, y abre la **PR** contra `Jaguar077/Canciones` (base `main`): `gh pr create --repo Jaguar077/Canciones --base main --head dmastter:transcripcion-ttbb`. La descripción debe ser completa (qué se hizo, herramientas, cómo regenerar, bloqueadas) y terminar en `🤖 Generated with [Claude Code](https://claude.com/claude-code)`.
