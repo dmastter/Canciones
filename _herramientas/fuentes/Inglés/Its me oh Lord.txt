@@ -1,0 +1,388 @@
+title: It's Me O Lord
+composer: Negro Spiritual
+lyricist:
+arranger: J. Rosamond Johnson
+key: G
+time: 4/4
+tempo: 100
+source: PDF 1 pag. escaneo (fotocopia de baja calidad, sello Colegio Juventista del Plata); 2 pentagramas TT/BB, G mayor, 4/4, Moderato, mp, Negro Spiritual arr. J. Rosamond Johnson, anacrusa, 1a/2a casilla con Fine y D.S. al Fine ad lib, parte de estrofa con Humming. Busqueda web: tema tradicional (Standin' in the Need of Prayer), no se encontro este arreglo concreto ni su tempo (100 por defecto; Moderato impreso). FORMA EXPANDIDA (51 c.): anacrusa + estribillo c.1-7 + 1a casilla; repeticion c.1-7 + 2a casilla (Fine con calderon); estrofa 1 (anacrusa 'Tain't my + 8 c. + c. final con It's); D.S. = estribillo c.1-7 + 2a casilla (sin repetir); estrofa 2 (mismas notas, letra 2); D.S. al Fine = estribillo c.1-7 + 2a casilla (Fine). Las anacrusas del verso (1 pulso) son compases incompletos genuinos.
+
+# NOTA DEDUCIDA: escaneo muy borroso; alturas leidas por ajuste de cabezas sobre el pentagrama + armonia.
+# NOTA DEDUCIDA: c.2 (y V3/V7) 4o acorde "Lord": ligadura solo visible en T2 y Bar; se liga todo el acorde (T1 g3, T2 d3, Bar b3, Bajo g2).
+# NOTA DEDUCIDA: c.6 acordes 5 y 6 ("An' I'm"): se leen como continuacion del C#dim7 (bb3/c#3 por accidentales de compas); T1 g3 y e3, T2 e3.
+# NOTA DEDUCIDA: c.7 acordes 5-6 (D6 y D7) y c.4 T2 g3: lectura por armonia (la cabeza abierta/borrosa admite f#3).
+# NOTA DEDUCIDA: 2a casilla: T1 y Bajo sostienen g3 (blanca con puntillo + ligadura a negra con calderon); en el impreso el calderon de T1/Bajo esta sobre la 1a nota y el de T2/Bar sobre la ultima (se unifica en el acorde final para alinear el audio).
+# NOTA DEDUCIDA: partes de verso con Humming (V2/V3 y repeticiones): alturas de T2/Bar/Bajo por ajuste y armonia; Bajo sostiene a3 (redonda ligada V2->V3); ritmo de V3 como c.2.
+# NOTA DEDUCIDA: V1 y V5 (anacrusa 'Tain't my): a3/c4 corcheas; V5 = blanca con puntillo (acorde sol) + anacrusa.
+
+@0   # P
+T1: \mp !Moderato b3
+T2: r
+B1: r
+B2: r
+L.T1: It's
+
+@1   # A1
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 e3 eb3
+L: me, it's me, it's
+
+@2   # A2
+T1: b3/8 a3 g3/8~ g3 r
+T2: g3/8 f#3 d3/8~ d3 r
+B1: d4/8 c4 b3/8~ b3 r
+B2: d3/8 d3 g2/8~ g2 r
+L: me, O, Lord,
+
+@3   # A3
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@4   # A4
+T1: b3/2. d4
+T2: g3/2. f#3
+B1: d4/2. c4
+B2: g3/2. d3
+L: pray'r, It's
+
+@5   # A5
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 fn3 f3
+L: me, it's me, it's
+
+@6   # A6
+T1: b3/8 a3 g3/8~ g3 g3/8 e3/8
+T2: e3/8 e3 e3/8~ e3 e3/8 e3/8
+B1: g3/8 g3 bb3/8~ bb3 bb3/8 bb3/8
+B2: c3/8 c3 c#3/8~ c#3 c#3/8 c#3/8
+L: me, O, Lord, An' I'm
+
+@7   # A7
+T1: g3/8 g3/8 g3/8 g3/8 b3/8 a3.
+T2: d3/8 d3/8 d3/8 d3/8 f#3/8 f#3.
+B1: b3/8 b3/8 b3/8 b3/8 d4/8 c4.
+B2: d3/8 d3/8 d3/8 d3/8 d3/8 d3.
+L: stand- in' in the need of
+
+@8   # E1
+T1: g3 g4 e4/8 d4/8_ b3
+T2: d3 r r/2
+B1: b3 r r/2
+B2: g3 r r/2
+L.T1: pray'r. O, Lord, It's
+L.T2: pray'r.
+L.B1: pray'r.
+L.B2: pray'r.
+
+@9   # A1
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 e3 eb3
+L: me, it's me, it's
+
+@10   # A2
+T1: b3/8 a3 g3/8~ g3 r
+T2: g3/8 f#3 d3/8~ d3 r
+B1: d4/8 c4 b3/8~ b3 r
+B2: d3/8 d3 g2/8~ g2 r
+L: me, O, Lord,
+
+@11   # A3
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@12   # A4
+T1: b3/2. d4
+T2: g3/2. f#3
+B1: d4/2. c4
+B2: g3/2. d3
+L: pray'r, It's
+
+@13   # A5
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 fn3 f3
+L: me, it's me, it's
+
+@14   # A6
+T1: b3/8 a3 g3/8~ g3 g3/8 e3/8
+T2: e3/8 e3 e3/8~ e3 e3/8 e3/8
+B1: g3/8 g3 bb3/8~ bb3 bb3/8 bb3/8
+B2: c3/8 c3 c#3/8~ c#3 c#3/8 c#3/8
+L: me, O, Lord, An' I'm
+
+@15   # A7
+T1: g3/8 g3/8 g3/8 g3/8 b3/8 a3.
+T2: d3/8 d3/8 d3/8 d3/8 f#3/8 f#3.
+B1: b3/8 b3/8 b3/8 b3/8 d4/8 c4.
+B2: d3/8 d3/8 d3/8 d3/8 d3/8 d3.
+L: stand- in' in the need of
+
+@16   # E2
+T1: g3/2.~ g3^
+T2: ( d3/2 eb3_ en3^_ )
+B1: ( b3/2 a3_ b3^_ )
+B2: g3/2.~ g3^
+L: pray'r.
+
+@17   # V1
+T1: a3/8 c4/8
+T2: r
+B1: r
+B2: r
+L.T1: 'Tain't my
+
+@18   # V2
+T1: b3/8 d4/8 b3/8 a3/8 b3/8 d4/8 b3/8 a3/8
+T2: !Humming d3 e3 d3 e3
+B1: b3 c4 b3 c4
+B2: a3/1~
+L.T1: moth- er or my fa- ther, but it's
+
+@19   # V3
+T1: b3/8 a3 g3/8~ g3 r
+T2: d3/8 f#3 d3/8~ d3 r
+B1: b3/8 d4 b3/8~ b3 r
+B2: a3/1
+L.T1: me O, Lord
+
+@20   # V4
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@21   # V5
+T1: b3/2. a3/8 c4/8
+T2: g3/2. r
+B1: d4/2. r
+B2: g3/2. r
+L.T1: pray'r. 'Tain't my
+L.T2: pray'r.
+L.B1: pray'r.
+L.B2: pray'r.
+
+@22   # V6
+T1: b3/8 d4/8 b3/8 a3/8 b3/8 d4/8 b3/8 a3/8
+T2: !Humming d3 e3 d3 e3
+B1: b3 c4 b3 c4
+B2: a3/1~
+L.T1: moth- er or my fa- ther, but it's
+
+@23   # V7
+T1: b3/8 a3 g3/8~ g3 r
+T2: d3/8 f#3 d3/8~ d3 r
+B1: b3/8 d4 b3/8~ b3 r
+B2: a3/1
+L.T1: me O, Lord
+
+@24   # V8
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@25   # V9
+T1: !D.S._al_Fine_ad_lib. g3 g4 e4/8 d4/8_ b3
+T2: d3 r r/2
+B1: b3 r r/2
+B2: g3 r r/2
+L.T1: pray'r. O, Lord, It's
+L.T2: pray'r.
+L.B1: pray'r.
+L.B2: pray'r.
+
+@26   # A1
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 e3 eb3
+L: me, it's me, it's
+
+@27   # A2
+T1: b3/8 a3 g3/8~ g3 r
+T2: g3/8 f#3 d3/8~ d3 r
+B1: d4/8 c4 b3/8~ b3 r
+B2: d3/8 d3 g2/8~ g2 r
+L: me, O, Lord,
+
+@28   # A3
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@29   # A4
+T1: b3/2. d4
+T2: g3/2. f#3
+B1: d4/2. c4
+B2: g3/2. d3
+L: pray'r, It's
+
+@30   # A5
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 fn3 f3
+L: me, it's me, it's
+
+@31   # A6
+T1: b3/8 a3 g3/8~ g3 g3/8 e3/8
+T2: e3/8 e3 e3/8~ e3 e3/8 e3/8
+B1: g3/8 g3 bb3/8~ bb3 bb3/8 bb3/8
+B2: c3/8 c3 c#3/8~ c#3 c#3/8 c#3/8
+L: me, O, Lord, An' I'm
+
+@32   # A7
+T1: g3/8 g3/8 g3/8 g3/8 b3/8 a3.
+T2: d3/8 d3/8 d3/8 d3/8 f#3/8 f#3.
+B1: b3/8 b3/8 b3/8 b3/8 d4/8 c4.
+B2: d3/8 d3/8 d3/8 d3/8 d3/8 d3.
+L: stand- in' in the need of
+
+@33   # E2
+T1: g3/2.~ g3^
+T2: ( d3/2 eb3_ en3^_ )
+B1: ( b3/2 a3_ b3^_ )
+B2: g3/2.~ g3^
+L: pray'r.
+
+@34   # V1
+T1: a3/8 c4/8
+T2: r
+B1: r
+B2: r
+L.T1: 'Tain't the
+
+@35   # V2
+T1: b3/8 d4/8 b3/8 a3/8 b3/8 d4/8 b3/8 a3/8
+T2: !Humming d3 e3 d3 e3
+B1: b3 c4 b3 c4
+B2: a3/1~
+L.T1: dea- con or my lead- er, but it's
+
+@36   # V3
+T1: b3/8 a3 g3/8~ g3 r
+T2: d3/8 f#3 d3/8~ d3 r
+B1: b3/8 d4 b3/8~ b3 r
+B2: a3/1
+L.T1: me O, Lord
+
+@37   # V4
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@38   # V5
+T1: b3/2. a3/8 c4/8
+T2: g3/2. r
+B1: d4/2. r
+B2: g3/2. r
+L.T1: pray'r. 'Tain't the
+L.T2: pray'r.
+L.B1: pray'r.
+L.B2: pray'r.
+
+@39   # V6
+T1: b3/8 d4/8 b3/8 a3/8 b3/8 d4/8 b3/8 a3/8
+T2: !Humming d3 e3 d3 e3
+B1: b3 c4 b3 c4
+B2: a3/1~
+L.T1: dea- con or my lead- er, but it's
+
+@40   # V7
+T1: b3/8 a3 g3/8~ g3 r
+T2: d3/8 f#3 d3/8~ d3 r
+B1: b3/8 d4 b3/8~ b3 r
+B2: a3/1
+L.T1: me O, Lord
+
+@41   # V8
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@42   # V9
+T1: !D.S._al_Fine_ad_lib. g3 g4 e4/8 d4/8_ b3
+T2: d3 r r/2
+B1: b3 r r/2
+B2: g3 r r/2
+L.T1: pray'r. O, Lord, It's
+L.T2: pray'r.
+L.B1: pray'r.
+L.B2: pray'r.
+
+@43   # A1
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 e3 eb3
+L: me, it's me, it's
+
+@44   # A2
+T1: b3/8 a3 g3/8~ g3 r
+T2: g3/8 f#3 d3/8~ d3 r
+B1: d4/8 c4 b3/8~ b3 r
+B2: d3/8 d3 g2/8~ g2 r
+L: me, O, Lord,
+
+@45   # A3
+T1: g3/8 g3/8 g3/8 g3/8 a3/8 a3.
+T2: e3/8 e3/8 e3/8 e3/8 f#3/8 f#3.
+B1: g3/8 g3/8 g3/8 g3/8 c4/8 c4.
+B2: c3/8 c3/8 c3/8 c3/8 d3/8 d3.
+L: Stand- in' in the need of
+
+@46   # A4
+T1: b3/2. d4
+T2: g3/2. f#3
+B1: d4/2. c4
+B2: g3/2. d3
+L: pray'r, It's
+
+@47   # A5
+T1: b3 b3 b3 b3
+T2: g3 g3 g3 g3
+B1: d4 d4 d4 d4
+B2: g3 f#3 fn3 f3
+L: me, it's me, it's
+
+@48   # A6
+T1: b3/8 a3 g3/8~ g3 g3/8 e3/8
+T2: e3/8 e3 e3/8~ e3 e3/8 e3/8
+B1: g3/8 g3 bb3/8~ bb3 bb3/8 bb3/8
+B2: c3/8 c3 c#3/8~ c#3 c#3/8 c#3/8
+L: me, O, Lord, An' I'm
+
+@49   # A7
+T1: g3/8 g3/8 g3/8 g3/8 b3/8 a3.
+T2: d3/8 d3/8 d3/8 d3/8 f#3/8 f#3.
+B1: b3/8 b3/8 b3/8 b3/8 d4/8 c4.
+B2: d3/8 d3/8 d3/8 d3/8 d3/8 d3.
+L: stand- in' in the need of
+
+@50   # E2F
+T1: !Fine g3/2.~ g3^
+T2: ( d3/2 eb3_ en3^_ )
+B1: ( b3/2 a3_ b3^_ )
+B2: g3/2.~ g3^
+L: pray'r.
