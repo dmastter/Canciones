@@ -1,0 +1,48 @@
+title: Printre Spini
+composer: Jack Richards
+lyricist: Sami Calotă
+arranger:
+key: Bb
+time: 3/4
+tempo: 100
+source: PDF original (escaneo CamScanner, 1 pag., 5 sistemas de 2 pentagramas: Sol 8vb = T1/T2 y Fa = Bar/Bajo; armadura de 2 bemoles, 3/4; sin tempo impreso: se usa 100; 2 estrofas simultaneas bajo la musica; sin repeticiones ni casillas ni dinamicas; compas final con doble barra final; pie "TB" y sello "Scanned with CamScanner" del escaner, sin aviso de copia). Cabecera: "Sami Calotă" a la izquierda y "Jack Richards" a la derecha sin indicar roles (se asigna letra/musica por convencion). Busqueda web (2 consultas: titulo + autores y primer verso): no encontrado. Letra tal como esta impresa; sedillas ş/ţ (la t/s llevan gancho inferior tipo cedilla en el escaneo), comillas rectas en "Ta-tă ... fac". Elisiones impresas con guion dentro de la misma nota: Te-au, Te-am, s-a, ţe-a, Te-a, tă-i, gre-ul no (gre- ul son dos notas), pe-al, n-al, să-mi, şi-mi; "doare- al" = dos notas. Compases 1-5 (sistema 1), 6-11, 12-17, 18-24, 25-31. Accidentales impresos: c.8 F# (Bar), c.10 Gb (Bar), c.13 E natural (Bar) y C# (T2) y E natural (T1), c.14 E natural (T2), c.25 Gb/Ab/Db/Gb y c.26 Gb (alteraciones de ese pasaje). Notas de lectura: c.4 el pentagrama grave lleva 3 voces reales (Bb3 negra... blanca con ligadura de expresion a La3 + acorde F3/F2 con puntillo): F3 duplica a T1, se codifican B1 = Bb3->A3 y B2 = F2. c.7, c.9, c.10, c.19, c.23 (2a nota) son unisonos T1=T2 (una sola cabeza con plica doble). c.15 T2 lleva tres negras (G3 Bb3 G3) con ligadura de expresion bajo una sola silaba "ştiu" (T1 = blanca + negra).
+
+@1
+T1: bb3. bb3/8 c4/8 d4/8 | a3. a3/8 bb3/8 c4/8 | g3/2 g3 | f3/2. | eb3. eb3/8 f3/8 g3/8
+T2: f3. f3/8 f3/8 f3/8 | f3. f3/8 f3/8 f3/8 | eb3/2 eb3 | c3/2. | c3. c3/8 d3/8 eb3/8
+B1: d4. d4/8 d4/8 d4/8 | a3. a3/8 a3/8 a3/8 | c4/2 bb3 | ( bb3/2 a3_ ) | g3. g3/8 g3/8 g3/8
+B2: bb2. bb2/8 bb2/8 bb2/8 | d3. d3/8 d3/8 d3/8 | c3/2 c3 | f2/2. | c3. c3/8 c3/8 c3/8
+L: Prin- tre spini pe | frun- te Doam- ne | am ză- | rit | Pi- curi mari de
+L2: Nu pu- teai I- | su- se bun să | dai mai | mult, | Ai dat via- ţa
+
+@6
+T1: d3. d3/8 eb3/8 f3/8 | c3/2 d3 | c3/2. | bb2. bb2/8 c3/8 d3/8 | bb2. bb2/8 c3/8 d3/8 | d3/2 f3
+T2: bb2. bb2/8 c3/8 d3/8 | c3/2 d3 | a2/2. | bb2. bb2/8 c3/8 d3/8 | bb2. bb2/8 c3/8 d3/8 | bb2/2 d3
+B1: g3. g3/8 g3/8 g3/8 | g3/2 g3 | f#3/2. | g3. g3/8 g3/8 g3/8 | gb3. gb3/8 gb3/8 gb3/8 | f3/2 f3
+B2: g2. g2/8 g2/8 g2/8 | eb3/2 eb3 | d3/2. | eb3. eb3/8 eb3/8 eb3/8 | eb3. eb3/8 eb3/8 eb3/8 | bb2/2 a2
+L: sân- ge când Te-au | răs- tig- | nit, | Ru- ga Ta spre | ce- ruri iu- te | s-a- drep-
+L2: Ta când nu Te-am | cu- nos- | cut. | Stau la cru- ce | şi-mi re- vărs tot | do- rul
+
+@12
+T1: bb3/2. | a3. en3/8 f3/8 g3/8 | f3. g3/8 a3/8 bb3/8 | c4/2 c4 | c4/2. | d4. d4/8 c4/8 bb3/8
+T2: d3/2. | c#3. c#3/8 d3/8 e3/8 | d3. en3/8 f3/8 f3/8 | ( g3 bb3_ ) g3 | a3/2. | f3. f3/8 eb3/8 d3/8
+B1: g3/2. | en3. a3/8 a3/8 a3/8 | a3. a3/8 d4/8 d4/8 | eb4/2 eb4 | c4/2. | bb3. bb3/8 bb3/8 bb3/8
+B2: g2/2. | a2. a2/8 a2/8 a2/8 | d3. d3/8 d3/8 d3/8 | c3/2 c3 | f3/2. | bb2. bb2/8 bb2/8 bb2/8
+L: tat: | "Ta- tă, iar- tă-i | Tu căci ei nu | ştiu ce | fac". | Doam- ne lem- nul
+L2: meu. | Vi- no iar la | mi- ne Fiu de | Dum- ne- | zeu, | Vreau să-mi spui iu-
+
+@18
+T1: d4. d4/8 c4/8 bb3/8 | d4/2 g3 | c4/2. | c4. c4/8 bb3/8 a3/8 | c4. c4/8 bb3/8 a3/8 | c4/2 f3 | bb3/2.
+T2: d3. d3/8 d3/8 g3/8 | g3/2 g3 | g3/2. | a3. a3/8 g3/8 f3/8 | a3. a3/8 g3/8 f3/8 | f3/2 f3 | g3/2.
+B1: bb3. bb3/8 bb3/8 d4/8 | eb4/2 eb4 | eb4/2. | eb4. eb4/8 d4/8 c4/8 | eb4. eb4/8 d4/8 c4/8 | d4/2 d4 | d4/2.
+B2: g2. g2/8 g2/8 g2/8 | c3/2 c3 | c3/2. | f3. f3/8 f3/8 f3/8 | f3. f3/8 f3/8 f3/8 | bb2/2 a2 | g2/2.
+L: cru- cii strâng în | bra- ţe-a- | cu', | Pes- te gre- ul | tot I- su- se | mă con- | du,
+L2: bi- rea ce Te-a | în- dem- | nat | Să urci dea- lul | Gol- go- tei drept | con- dam- | nat,
+
+@25
+T1: bb3. bb3/8 ab3/8 bb3/8 | bb3. bb3/8 c4/8 bb3/8 | c4/2 bb3 | f3. g3/8 a3/8 bb3/8 | c4/2. | d4/2 d4 | bb3/2.
+T2: gb3. gb3/8 gb3/8 gb3/8 | gb3. gb3/8 gb3/8 gb3/8 | f3/2 d3 | d3. d3/8 d3/8 d3/8 | eb3/2. | f3/2 eb3 | d3/2.
+B1: db4. db4/8 db4/8 db4/8 | c4. c4/8 c4/8 c4/8 | bb3/2 f3 | f3. f3/8 f3/8 g3/8 | g3/2. | a3/2 a3 | f3/2.
+B2: gb2. gb2/8 gb2/8 gb2/8 | eb3. eb3/8 eb3/8 eb3/8 | bb2/2 bb2 | bb2. bb2/8 a2/8 g2/8 | c3/2. | f3/2 f3 | bb2/2.
+L: De la Gol- go- | ta lu- mi- n-al | vie- ţii | far, Mă doare- al | Tău | greu Cal- | var.
+L2: Mă jert- fesc a- | cum ca rod pe-al | Tău al- | tar, I- su- se | scump | vi- no | iar!
