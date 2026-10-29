@@ -1,0 +1,54 @@
+title: Să nu te temi
+composer:
+lyricist:
+arranger:
+key: Db
+time: 6/8
+tempo: 100
+source: PDF original (1 pág. escaneada, himno nº 46 "SĂ NU TE TEMI", 4 sistemas de 4 compases, 2 pentagramas: Sol 8vb arriba = T1/T2, Fa abajo = B1/B2; 5 bemoles = Reb mayor, final en acorde de Reb; 6/8 deducido por la suma de cada compás; sin indicación de tempo en el PDF, se usa 100; sin repeticiones ni dinámicas; barra final doble al cierre). Letra española manuscrita en mayúsculas (3 estrofas bajo los sistemas 1-2; sistemas 3-4 una sola línea), transcrita tal cual escrita sin añadir tildes ausentes en el manuscrito ("docher" tal como se lee en el manuscrito). Apóstrofos manuscritos (y'en, te'a, go-i) = elisiones. Etiquetas manuscritas en el margen izquierdo del PDF: pentagrama superior "TENOR 2 / BARITON", inferior "TENOR 1 / BAS" (se mantiene la asignación del protocolo T1/T2 = Sol 8vb, B1/B2 = Fa; ver informe). Búsqueda web (Să nu te temi de viitor / En tus afanes y en tu dolor Dios cuidará de ti): compositor y arreglo no encontrados. Pentagrama grave del PDF muy degradado (escaneo con manchas): lecturas apoyadas en los pocos cabezas legibles + coherencia armónica (ver NOTA DEDUCIDA). En los acordes del pentagrama grave con 3-4 notas se transcriben la más aguda (B1) y la más grave (B2); las notas intermedias (octavas/relleno) no caben en 4 voces. Manchas/restos de tinta junto a la barra c.15-16 del último sistema (a la altura de los cabezas de c.15/16) se interpretan como suciedad, no como notas (las sumas de compás cuadran sin ellas).
+
+@1
+T1: f3/8 gb3/8 g3/8 ab3/8 db4/8 eb4/8 | f4 eb4/8 db4. | ab3/8 c4/8 bb3/8 gb3 bb3/8 | ( ab3. f3._ )
+T2: db3/8 eb3/8 e3/8 f3 gb3/8 | ab3 gb3/8 f3. | gb3/8 gb3/8 gb3/8 eb3 gb3/8 | ( f3. db3._ )
+B1: f3/8 gb3/8 g3/8 ab3/8 db4/8 c4/8 | db4 c4/8 ab3. | c4/8 eb4/8 db4/8 c4 c4/8 | db4.~ db4.
+B2: f2/8 f2/8 g2/8 ab2/8 db3/8 ab2/8 | db3 ab2/8 db2. | ab2/8 ab2/8 db2/8 ab2 ab2/8 | db2.~ db2.
+L.T1: En tus a- fa- nes y_en | tu do- lor | Dios cui- da- ra de | ti
+L.T2: En tus a- fa_nes y_en | tu do- lor | Dios cui- da- ra de | ti
+L.BB: En tus a- fa- nes y_en | tu do- lor | Dios cui- da- ra de | ti
+L2.T1: Si des- fa- lle- ses en | tu la- bor
+L2.T2: Si des- fa- lle_ses en | tu la- bor
+L2.BB: Si des- fa- lle- ses en | tu la- bor
+L3.T1: Nun- ca la prue- ba su- | cum- bi- ras
+L3.T2: Nun- ca la prue_ba su- | cum- bi- ras
+L3.BB: Nun- ca la prue- ba su- | cum- bi- ras
+
+@5
+T1: f3/8 gb3/8 g3/8 ab3/8 db4/8 eb4/8 | f4 eb4/8 db4. | ab3/8 c4/8 bb3/8 ab3 eb4/8 | db4.~ db4.
+T2: db3/8 eb3/8 e3/8 f3 gb3/8 | ab3 gb3/8 f3. | gb3/8 gb3/8 gb3/8 gb3 gb3/8 | f3.~ f3.   # NOTA DEDUCIDA: c.8 T2 segundo acorde (restos de tinta): F3 ligado al F3 anterior
+B1: f3/8 gb3/8 g3/8 ab3/8 db4/8 c4/8 | db4 c4/8 ab3. | c4/8 eb4/8 db4/8 c4 c4/8 | db4.~ db4.   # NOTA DEDUCIDA: c.5-6 B1 y B2 (pentagrama grave ilegible en este sistema) = misma música que c.1-2
+B2: f2/8 f2/8 g2/8 ab2/8 db3/8 ab2/8 | db3 ab2/8 db2. | ab2/8 ab2/8 db2/8 ab2 ab2/8 | db2.~ db2.
+L.T1: Ba- jo las a- las de | tu a- mor | Dios cui- da- ra de | ti
+L.T2: Ba- jo las a_las de | tu a- mor | Dios cui- da- ra de | ti
+L.BB: Ba- jo las a- las de | tu a- mor | Dios cui- da- ra de | ti
+L2.T1: Si ves pe- li- gros en | de- re- dor
+L2.T2: Si ves pe- li_gros en | de- re- dor
+L2.BB: Si ves pe- li- gros en | de- re- dor
+L3.T1: En su re- ga- zo te_a- | po- ya- ras
+L3.T2: En su re- ga_zo te_a- | po- ya- ras
+L3.BB: En su re- ga- zo te_a- | po- ya- ras
+
+@9
+T1: db4. c4 bb3/8 | bb3 ab3/8 ab3. | ab3/8 c4/8 bb3/8 gb3. | gb3/8 bb3/8 ab3/8 f3.
+T2: bb3. ab3 gb3/8 | gb3 f3/8 f3. | f3/8 ab3/8 gb3/8 eb3. | eb3/8 gb3/8 f3/8 db3.
+B1: db4. c4 bb3/8 | bb3 ab3/8 ab3. | ab3/8 c4/8 bb3/8 gb3. | gb3/8 bb3/8 ab3/8 f3.   # NOTA DEDUCIDA: c.11-12 B1 (cabeza superior ambiguo entre alturas vecinas; se toma el unísono con T1)
+B2: gb2. f2 eb2/8 | eb2 db2/8 db2. | ab2/8 c3/8 ab2/8 gb2. | gb2/8 bb2/8 ab2/8 f2.   # NOTA DEDUCIDA: c.11 B2 (c.11-1 Ab2, 2 C3, 3 Ab2, 4 Gb2 leídos entre trazos manchados); c.9 acorde 3 y c.10 acorde 1: Mib2 sobre línea adicional
+L: Dios cui- da- | ra de ti | y por do- cher | con- ti- go_i- ra
+
+@13
+T1: ab3. db4 db4/8 | eb4/8 db4/8 eb4/8 f4. | eb4/8 db4/8 bb3/8 ab3/8 db4/8 c4/8 | db4.~ db4.
+T2: f3. ab3 ab3/8 | bb3 bb3/8 a3. | bb3/8 bb3/8 gb3/8 f3 eb3/8 | f3.~ f3.
+B1: db4. db4 db4/8 | bb3 bb3/8 c4. | bb3/8 db4/8 db4/8 ab3 ab3/8 | ab3.~ ab3.
+B2: ab2. f2 f2/8 | f2 gb2/8 f2. | gb2/8 f2/8 f2/8 ab2 ab2/8 | db2.~ db2.
+L.T1: Dios cui- da- | ra _ de ti | Na- da te fal- _ ta- | ra
+L.T2: Dios cui- da- | ra de ti | Na- da te fal- ta- | ra
+L.BB: Dios cui- da- | ra de ti | Na- da te fal- ta- | ra
