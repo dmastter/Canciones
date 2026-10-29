@@ -1,0 +1,14 @@
+title: Printre Spini
+composer: Jack Richards
+lyricist: Sami Calotă
+arranger:
+key: Bb
+time: 3/4
+tempo: 100
+source: PDF omr/R_Printre_Spini/in.pdf (1 pág., 5 sistemas, 2 pentagramas Sol 8vb + Fa, 3/4, armadura Bb mayor, ~23 compases, 2 estrofas impresas, repeticion |: en c.2). Letra c.1-: "Prin- tre spini pe frun- te Doamne am ză- rit Pi- curi mari de" / "Nu pu- teai I- su- se bun să dai mai mult, Ai dat via- ţa". Sin busqueda en internet (prisa). NOTAS NO TRANSCRITAS TODAVIA: el borrador OMR (draft.txt) no es fiable (octavas de la clave 8vb y ritmos sin verificar).
+
+# HASTA AQUÍ VERIFICADO: ningún compás (c.0). Falta toda la canción (sistema 1 = c.1-5, sistema 2 = c.6-..., ver crops/p1_s1..s5.png; guide.py: argumentos x0 x1 en px del crop (0-2480) y zoom).
+# Lectura estructural del sistema 1 (sin alturas verificadas): c.1 = negra con puntillo + 3 corcheas; c.2 = |: + negra con puntillo + 3 corcheas; c.3 = blanca + negra; c.4 = blanca con puntillo (ligadura en el bajo); c.5 = negra con puntillo + corcheas.
+# Verificado a 5x solo c.1 acordes 1 y 2 (negra con puntillo + corchea): T1 bb3, T2 f3 (convencion Sol 8vb: real = escrito - 8va), B2 bb2. B1 = d4 segun OMR (no verificado a zoom; posible cruce con T1).
+# DUDA ABIERTA: la clave de Sol de los tenores se ve SIN "8" impreso; decidir si se aplica la convencion del protocolo (8vb) o suena tal cual escrito (T1 bb4/T2 f4/B1 d4 serian entonces sin cruce).
+# NO HAY BLOQUES @N AUN (el DSL no compila hasta añadir el primero).

@@ -7,5 +7,6 @@ time: 4/4
 tempo: 100
 source: SDA Hymnal 626 "In a Little While We're Going Home" (E. E. Hewitt; arr. Wayne Hooper, Key Music Co. 1959) segun hymnsforworship.org; tempo no impreso en el PDF -> 100. Escaneo fotografico muy borroso; armadura 4 bemoles (Ab) leida en ambos pentagramas; anotacion manual "FA MAJOR" en el PDF.
 
-# SIN NOTAS VERIFICADAS TODAVIA (lectura del escaneo en curso)
+# TONALIDAD DECIDIDA: Ab M (4 bemoles claros en la armadura de la clave de Fa, ds3_g zoom 3x; acorde final del bajo = Ab2+Eb3, tonica Ab). La anotacion manual 'FA MAJOR' no concuerda con la armadura.
+# SIN NOTAS VERIFICADAS TODAVIA (lectura del escaneo en curso; foto muy borrosa, no se escribio ninguna nota por no alcanzar precision absoluta en el tiempo disponible)
 # HASTA AQUI VERIFICADO: c.0

@@ -18,14 +18,16 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **ht
 - **39 ✅** terminadas y subidas (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
 - **5 ⛔** bloqueadas (no tocar): Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
 - **11 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi (letra Español). Inglés: Good News · Its me oh Lord. Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Printre Spini · Rasuna cintare · Sa nu te temi · Un sol ceresc.
-- Lo que haya a medias está en `_herramientas/fuentes_wip/` (DSL parciales). Cada uno acaba con `# HASTA AQUÍ VERIFICADO: c.N`: lo anterior lo comprobó un subagente contra la imagen, pero **el orquestador no lo ha revisado**. Revísalo antes de reutilizarlo. El detalle por canción está en la línea ⏸ PARADA de `PROGRESO.md`. Resumen de la parada del 2026-10-23 12:59:
-  - Good News: c.0-35.
-  - Aleluya: c.0-9.
+- Lo que haya a medias está en `_herramientas/fuentes_wip/` (DSL parciales). Cada uno acaba con `# HASTA AQUÍ ...`: lo anterior lo leyó un subagente u orquestador contra la imagen, pero **la revisión global sigue pendiente**. El detalle por canción está en la línea ⏸ PARADA de `PROGRESO.md`. Resumen de la parada del 2026-10-29 11:10Z:
+  - Good News: c.0-40 (sigue en el sistema 4 de la pág. 2).
+  - Aleluya: c.0-10.
   - Más allá de sol: c.1-7.
   - Sa nu te temi (Español): c.1-4.
   - Its me oh Lord: c.0-1.
-  - Gaither e In curand acas: solo cabecera.
-  - Printre Spini, Rasuna cintare, Sa nu te temi (Rumano) y Un sol ceresc: sin DSL.
+  - Rumano/Sa nu te temi: c.1-2 parciales (T1/T2 sin leer nota a nota, graves deducidos).
+  - Un sol ceresc: c.0.
+  - Gaither, In curand acas, Printre Spini y Rasuna cintare: sólo cabecera y notas de lectura.
+  - El enjambre de 11 agentes de ~4 min de esta parada apenas avanzó (escaneos degradados): lanza agentes largos, uno por canción, y que mejoren antes la imagen.
 - Al copiar los parciales a `Canciones_work/songs/`, comprueba que no pisas otros más avanzados (en este equipo ya están ahí).
 - Muchas fotos están inclinadas y `guide.py` no detecta las líneas. Los subagentes hicieron scripts de enderezado y guías locales, copiados en `_herramientas/ayudas_wip/<WORK>/`. Úsalos, o mejor, generaliza uno en `guide.py`.
 - El OMR (in.mxl, draft.txt, crops) ya está hecho en este equipo para todas salvo Rasuna cintare (Audiveris falla), R_Sa_nu_te_temi y R_Un_sol_ceresc (cortado). Los borradores OMR de Gaither, In curand acas y Aleluya son inservibles.

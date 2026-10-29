@@ -1,0 +1,11 @@
+title: 22. RĂSUNĂ CÎNTARE
+composer:
+lyricist: Text: B. Burtescu
+arranger: Prelucrare: G.D.
+key: G
+time: 4/4
+tempo: 100
+source: PDF original (escaneo CamScanner manuscrito, 1 pág. numerada 33; Audiveris falla, sin in.mxl). Estructura leída de la página: intro de piano (1 pentagrama, "introd. pian", 4 compases + anacrusa) y 4 sistemas con 3 pentagramas cada uno (arriba clave de Sol = TT, medio clave de Fa = BB, abajo clave de Sol = línea instrumental/piano a verificar); armadura de 1 sostenido (Sol mayor), compás C (4/4); estrofas 1. y 2. bajo los 3 primeros sistemas; "COR:" empieza en el 4º sistema (letra en mayúsculas: PENTRU VISUL LOR... PENTRU NUNTA LOR CÎNTUL SLAVEI PRINDE ZBOR DOMNUL...); casillas/repeticiones al final del 1er sistema y de la 2ª línea (signos de repetición a verificar). Sin búsqueda web (falta de tiempo). Número de estrofa "1." "2." no se incluye en la letra.
+
+# TRANSCRIPCION NO INICIADA: no hay ninguna nota verificada todavía.
+# HASTA AQUÍ VERIFICADO: nada (falta toda la canción: intro piano, 4 sistemas de TT/BB + línea inferior)

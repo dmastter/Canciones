@@ -1,0 +1,17 @@
+title: Un sol ceresc
+composer: Ioan Grigor
+lyricist:
+arranger:
+key: Ab
+time: 4/4
+tempo: 100
+source: PDF original (Nr. 100 "Un sol ceresc", Cor barbatesc, Ioan Grigor; Alegro Moderato; foto escaneada con CamScanner; 4 pags, 2 pentagramas por sistema: Sol = tenores T1/T2 y Fa = baritono/bajo; 4 bemoles; 4/4; letra distinta en tenores y graves). Busqueda web omitida por falta de tiempo. Transcripcion PARCIAL en curso.
+
+@0
+T1: r/8 r
+T2: =T1
+B1: eb3/8 f3/8 g3/8
+B2: r/8 r
+L.B1: UN SOL CE-
+
+# HASTA AQUÍ VERIFICADO: c.0 (anacrusa de 3 corcheas). Falta desde c.1 ("TRA-GE CLO-PO-TE-LE CE-RU-LUI, DE VU-IET LUNG...") hasta el final (~4 paginas)

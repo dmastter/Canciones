@@ -15,4 +15,10 @@ B2: =T1
 PR: r/2. d5 | a4+f#5~ 3[ a4+f#5/8 r/8 g4+e5/8 ] d5+f#4 3[ d4/8 f#4/8 d5/8 ] | e4+g4+c5 3[ c4/8 e4/8 c5/8 ] | d4+g4+b4 3[ d4/8 g4/8 b4/8 ] d4+g4+a4 d4+f#4+a4 | b3+d4+e4+f#4+g4/2 b3+d4+f#4/2 | c4+e4. r/8 e5/8. f#5/16 g5/8. d5/16~ | d5~ d5/8. a4/16 g4+b4/8. g4+c5/16 g4+d5/8. c5/16~
 PL: r/1 | 3[ d3/8 r/8 a3/8 ] d4~ 3[ d4 d4/8 ] d3 | a2 g3+a2 | d2+d3/2 d3+c4 d3+c4 | e2+e3/2 d2+d3/2 | c3~ c3/8. g3/16 c4~ c4/8. c3/16 | b2/8. a3/16 d4 e3+b3+d4/2
 
-# HASTA AQUÍ VERIFICADO: c.7
+# HASTA AQUÍ VERIFICADO: c.7 (nada nuevo escrito tras c.7 por falta de tiempo)
+# OBSERVADO EN p1_s3 (sistema 3 de la p.1 = c.8-c.10; NO ESCRITO AUN, falta verificar piano y alturas):
+#  - c.8 y c.9: las 4 voces con silencio de redonda (claro en la imagen). c.10: texto "Alegre e contagiante" encima.
+#  - c.10 voces (anacrusa en el 4/4: silencio de negra + corchea con puntillo/semicorchea + 2 negras = 4 tiempos),
+#    letra impresa "Aun- que_en es- ta" (4 notas), T1=T2 y B1=B2 (unisonos, plicas arriba y abajo con la misma cabeza).
+#    Alturas probables (SIN CONFIRMAR, la guia queda desplazada por el escaneo): T e3 d3 g3 b3 / B e3 e3 g3 b3 -> releer con zoom.
+#  - Piano c.8-c.9: pendiente de leer (c.8: ligadura desde el c5 final del c.7, silencio y acordes en tiempos 2,3,4; c.9: nota larga sup. y bajos).

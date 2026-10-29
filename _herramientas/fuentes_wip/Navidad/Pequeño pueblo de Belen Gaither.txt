@@ -14,4 +14,5 @@ source: PDF escaneado 7 pag, 5 pentagramas vocales (T1, T2, divisi T2, Baritone,
 # P4 s7=c32-37, P4 s8=c38-43, P5 s9=c44-?, P5 s10=?-54 (3 sostenidos A), P6 s11=c55-59, P6 s12=c60-63 (allarg., =66), P7 s13=c64-fin (rit.)
 # Claves: 3 pentagramas Sol 8vb (confirmado "8" bajo la clave), Baritone y Bass en Fa. Tempo negra=90 mp. 4/4, armadura G (1 sostenido).
 # Lectura provisional c.1 T1: r B3/8 A3/8 B3 D4 (ligadura expresion B3-D4); c.2 B3/2~B3/2; c.3 igual que c.1; c.4 B3/2~B3 B3(O); c.5 B3 B3 A#3? B3 (sostenido en 3a nota, por confirmar).
-# HASTA AQUÍ VERIFICADO: c.0
+# LECTURA PARCIAL guide 4x (sólo T1 c.1, el resto del sistema 1 sin verificar): T1 c.1 = r a3/8 g3/8 b3 d4 (corrige la provisional B3/8 A3/8); c.2 T1 empieza en b3 (a confirmar). Letra c.1 'Doo doo-' en los 3 pentagramas superiores; Bar c.1 = r/8 + notas ligadas (sin leer); Bajo c.1 = redonda (sin leer).
+# HASTA AQUÍ VERIFICADO: c.0 (ningún bloque @N escrito; DSL sigue sin notas)

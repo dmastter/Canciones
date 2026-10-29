@@ -22,3 +22,7 @@ B2: g3 f3 e3 eb3
 L: me, it's me, it's
 
 # HASTA AQUÍ VERIFICADO: c.1 (c.0 = anacrusa, ritmo de la anacrusa por confirmar)
+# FALTA (sin transcribir; escaneo de media tinta casi ilegible a nivel de nota: cabezas = manchas, no se pudo leer con precisión absoluta en el tiempo disponible):
+#  - sistema 1: tras c.1 faltan 2 compases impresos (c.2 "me, O Lord,_ Stand-in' in", c.3 "the need of pray'r, It's"); en c.2 se ven corcheas (con corchete) y ligaduras de expresión en T y B; ritmos/alturas sin leer.
+#  - sistema 2: "me, it's me, it's | me, O Lord,_ Ah | I'm stand-in' in the need of"; sistema 3: casilla 1ª "pray'r, O Lord, It's pray'r" / 2ª con Fine y calderon, luego "Tain't my mother..." con Humming (T) ; sistema 4: "me O Lord / Stand-in' in the need of pray'r" + estrofa 2 "Tain't the deacon or my leader" + Humming; sistema 5: "me O Lord / Stand-in' in the need of pray'r, O Lord, It's" + D.S. al Fine ad lib.
+#  - letra de la estrofa 2 impresa debajo: "Tain't the dea-con or my lead-er, but it's me O Lord".

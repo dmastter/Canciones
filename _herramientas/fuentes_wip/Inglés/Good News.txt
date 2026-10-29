@@ -43,4 +43,22 @@ L.TT: (There's a | gold-en crown in the | heaven I know) There's a | gold-en cro
 L.B1: 2.There's a | gold-en crown in the | heaven I know, | There's a | gold-en crown in the | heaven I know, An' I | don' want her leave me be- | hind.
 L.B2: (There's a | gold-en crown in the | heaven I know) There's a | gold-en crown in the | heaven I know, An' I | don' want her leave me be- | hind.
 
-# HASTA AQUÍ VERIFICADO: c.35 (estribillo 1, estrofa 1, repetición estribillo 1, estrofa 2). Falta: estribillo 2 (en C), estrofa 3, repetición estribillo 2, estrofa 4, estribillo final.
+@36
+T1: key:C e4 | e4/2~ e4~ e4/8 e4/8~ | e4/8. e4/16 d4/8. d4/16 c4/8. c4/16 e4
+T2: r | r c4 c4~ c4/8 c4/8~ | c4/8. c4/16 g3/8. g3/16 g3/8. g3/16 r
+B1: r | r g3 g3~ g3/8 g3/8~ | g3/8. g3/16 f3/8. f3/16 e3/8. e3/16 r
+B2: r | r c3 c3~ c3/8 c3/8~ | c3/8. c3/16 c3/8. c3/16 c3/8. c3/16 r
+L.T1: Good | news, char- | i- ot's a- com- in', Good
+L.T2: | Good news, char- | i- ot's a- com- in',
+L.BB: | Good news, char- | i- ot's a- com- in',
+
+@39
+T1: d4/2~ d4~ d4/8 e4/8~ | e4/8. e4/16 d4/8. d4/16 c4/8. c4/16 e4
+T2: r b3 b3~ b3/8 c4/8~ | c4/8. c4/16 b3/8. b3/16 g3/8. g3/16 r
+B1: r f3 f3~ f3/8 g3/8~ | g3/8. g3/16 f3/8. f3/16 e3/8. e3/16 r
+B2: r g2 g2~ g2/8 a2/8~ | a2/8. a2/16 g2/8. g2/16 c3/8. c3/16 r
+L.T1: news, char- | i- ot's a- com- in', Good
+L.T2: Good news, char- | i- ot's a- com- in',
+L.BB: Good news, char- | i- ot's a- com- in',
+
+# HASTA AQUÍ VERIFICADO: c.40 (c.39-40 verificados contra imagen a 4-9x; c.40 col.4-7 segun lectura del orquestador, col.8-9 c4/g3/e3/c3 y anacrusa e4 de T1 leidos en s4.png; silencios de negra en T2/graves de beat 4). Falta: resto del estribillo 2 (desde c.41 en s4.png: T1 e4/2 con ligadura, entrada de T2/graves en 2o tiempo; ojo alteraciones # y b en graves), estrofa 3 ('There's a starry crown'), repeticion del estribillo 2, estrofa 4 y estribillo final.
