@@ -10,15 +10,6 @@ source: PDF original (escaneo, 1 pág., 2 pentagramas S+A / T+B leídos como Sol
 @0
 T1: \mf e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 f#3/8 | g#3/2 b2
 T2: e3/8 f#3/8 | g#3/2 b2 | c#3/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ e3/8 g#3/8 | f#3/2 d#3 | b2/2 a3 | g#3. f##3/8_ g#3/8_ f#3/8_ | e3/2_ cn3/8 cn3/8 | b2/2 b2
-B1: r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2.
+B1: r | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2. | r/2.
 B2: =B1
 L.TT: Cris- to | es mi | sal- va- | dor | Cris- to | es mi | sal- va- | dor | Cris- to | es mi
-
-@10
-T1: c#3/2 a3
-T2: c#3/2 e3
-B1: r/2.
-B2: =B1
-L.TT: sal- va-
-
-# HASTA AQUÍ VERIFICADO: c.10 (s2 primer compás leído con zoom: S/A = do#4 blanca unísono + negra la4/mi4; falta del c.11 al c.21; bajo = silencios de compás c.10-16 y notas desde c.17 (columna 'Toci/Toți'); s1: faltan comprobar con zoom los c.4-7 y el mf)
