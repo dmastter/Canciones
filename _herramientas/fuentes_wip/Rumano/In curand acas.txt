@@ -1,12 +1,61 @@
-title: In curand acas
+title: În curînd acasă (In a Little While We're Going Home)
 composer: E. E. Hewitt
 lyricist: E. E. Hewitt
-arranger: Wayne Hooper
+arranger: Arr. Wayne Hooper
 key: Ab
 time: 4/4
 tempo: 100
-source: SDA Hymnal 626 "In a Little While We're Going Home" (E. E. Hewitt; arr. Wayne Hooper, Key Music Co. 1959) segun hymnsforworship.org; tempo no impreso en el PDF -> 100. Escaneo fotografico muy borroso; armadura 4 bemoles (Ab) leida en ambos pentagramas; anotacion manual "FA MAJOR" en el PDF.
+source: PDF original (foto escaneada muy borrosa, 1 pág., 6 sistemas de 2 pentagramas: TT en Sol 8vb + BB en Fa; "In a Little While We're Going Home", E. E. Hewitt, Arr. by Wayne Hooper, Arrangement Copyright 1959 by Key Music Co.; letra rumana manuscrita, 3 estrofas). Himno SDA Hymnal 626 (https://hymnary.org/hymn/SDAH1985/626 ; https://hymnsforworship.org/sdah-626-little-going-home/ ; acordes https://bradwarden.com/music/hymnchords/?num=626, en Mib en el himnario). Armadura 4 bemoles leida en ambos pentagramas -> Lab mayor (la anotacion manual "FA MAJOR" no concuerda). Tempo no impreso -> 100. Imagen enderezada y binarizada (ajuste local de pentagramas) antes de leer. Estructura: estrofa c.0-8 (anacrusa de 1 tiempo; c.8 de 3 tiempos, doble barra) + estribillo c.9-17 (c.9 = anacrusa de 1 tiempo tras la doble barra; c.17 de 3 tiempos, barra final); no se ven puntos de repeticion en las barras de los sistemas 3 y 6. Estribillo con eco de los bajos (c.10-11, c.13); Ritard. al inicio del sistema 6 y calderon en c.15; asteriscos manuscritos (*) en c.15 ignorados. Las estrofas 2-3 solo tienen letra en la estrofa (c.0-8); el estribillo se canta igual.
 
-# TONALIDAD DECIDIDA: Ab M (4 bemoles claros en la armadura de la clave de Fa, ds3_g zoom 3x; acorde final del bajo = Ab2+Eb3, tonica Ab). La anotacion manual 'FA MAJOR' no concuerda con la armadura.
-# SIN NOTAS VERIFICADAS TODAVIA (lectura del escaneo en curso; foto muy borrosa, no se escribio ninguna nota por no alcanzar precision absoluta en el tiempo disponible)
-# HASTA AQUI VERIFICADO: c.0
+# TONALIDAD DECIDIDA: Ab M (4 bemoles en ambas claves; acordes de tonica Lab en c.1, c.3, c.8)
+
+@0   # sistema 1
+T1: c4/8 c4/8 | eb4 eb4 eb4 db4/8 c4/8 | eb4/8 c4/8 db4/8 db4/8 c4 c4/8 db4/8
+T2: eb3/8 ab3/8 | c4 c4 c4 bb3/8 ab3/8 | c4/8 ab3/8 ab3/8 f3/8 eb3 ab3/8 bb3/8
+B1: ab3/8 eb3/8 | ab3 ab3 ab3 eb3/8 eb3/8 | ab3/8 eb3/8 f3/8 ab3/8 ab3 eb3/8 eb3/8
+B2: ab2/8 ab2/8 | ab2 ab2 ab2 ab2/8 ab2/8 | ab2/8 ab2/8 db3/8 db3/8 ab2 ab2/8 ab2/8
+L: Ai cu- | raj tre- sal- tă și | nu te'n- gri- jo- ra în cu-
+L2: Vom ve- | dea pe'ai noș- tri ce'n | Dom- nu'au a- dor- mit vom ve-
+L3: Cel ce | vi- ne, vi- ne și | nu va ză- bo- vi în cu-
+
+@3   # sistema 2
+T1: eb4/8 eb4/8 eb4/8 f4/8 eb4 eb4 | eb4/2. eb4/8 f4/8 | g4 f4 eb4 eb4/8 eb4/8
+T2: c4/8 c4/8 c4/8 db4/8 c4 c4 | bb3/2. bb3/8 c4/8 | db4 db4 db4 c4/8 bb3/8
+B1: ab3/8 ab3/8 ab3/8 ab3/8 ab3 ab3 | g3/2. g3/8 ab3/8 | bb3 ab3 g3 g3/8 g3/8
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2 ab2 | eb3/2. eb3/8 eb3/8 | eb3 bb2 eb3 eb3/8 eb3/8
+L: rînd a- ca- să toți vom | fi noap- tea | lun- gă tre- ce și-o
+L2: dea pă- mînt și ce- ruri | noi ne vom | bu- cu- ra în că-
+L3: rînd în ca- sa Lui vom | fi cei răs- | cum- pă- rați pe i-
+
+@6   # sistema 3
+T1: eb4/8 eb4/8 eb4/8 eb4/8 eb4 db4/8 c4/8 | db4/8 db4/8 db4/8 db4/8 c4 db4 | time:3/4 c4/2. ||
+T2: c4/8 c4/8 c4/8 c4/8 c4 bb3/8 ab3/8 | bb3/8 bb3/8 bb3/8 bb3/8 ab3 g3 | ab3/2.
+B1: ab3/8 ab3/8 ab3/8 g3/8 gb3 gb3/8 gb3/8 | f3/8 f3/8 f3/8 f3/8 eb3 eb3 | eb3/2.
+B2: ab2/8 ab2/8 ab2/8 ab2/8 ab2 ab2/8 ab2/8 | db3/8 db3/8 bb2/8 bb2/8 eb3 eb2 | ab2/2.
+L: zi se va'a- ră- ta cînd i- | sus pe nori va re- ve- | ni.
+L2: mi- nul fe- ri- cit pre- gă- | tit de Dom- nul pen- tru | noi.
+L3: sus îl vor slă- vi veș- ni- | cit a toa- tă zi de | zi.
+
+@9   # sistema 4 (estribillo)
+T1: time:1/4 c4/8 c4/8 | time:4/4 bb3/8 db4/8 db4/2 db4/8 db4/8 | c4/8 eb4/8 eb4/2 eb4/8 eb4/8
+T2: ab3/8 ab3/8 | g3/8 bb3/8 bb3/2 bb3/8 bb3/8 | ab3/8 c4/8 c4/2 c4/8 db4/8
+B1: r | eb3/8 g3/8 g3/8 g3/8 g3. r/8 | eb3/8 ab3/8 ab3/8 ab3/8 ab3 ab3/8 g3/8
+B2: r | eb3/8 eb3/8 eb3/8 eb3/8 eb3. r/8 | ab2/8 ab2/8 ab2/8 ab2/8 ab2 ab2/8 bb2/8
+L.TT: În cu- | rînd î- sus În cu- | rînd î- sus În cu-
+L.BB: | În cu- rînd î- sus | În cu- rînd î- sus În cu-
+# NOTA DEDUCIDA: c.10 T2 3er tiempo (sus): bb3 (cabeza blanca entre linea Si y espacio La; se toma Sib por el acorde de Mib7 del bajo y el paralelo con c.11)
+
+@12   # sistema 5
+T1: eb4. eb4/8 eb4 eb4 | eb4/2. eb4/8 eb4/8 | c4 c4 c4 eb4/8 eb4/8
+T2: eb4. eb4/8 db4 c4 | bb3/2. c4/8 db4/8 | eb4 eb4 eb4 db4/8 c4/8
+B1: ab3. ab3/8 g3 ab3 | g3/2. g3/8 g3/8 | ab3 ab3 ab3 bb3/8 ab3/8
+B2: c3. c3/8 bb2 ab2 | eb3 g2/8_ bb2/8_ ( eb3/8_ db3/8_ ) c3/8 bb2/8 | ab2 eb3 ab3 g3/8 ab3/8
+L: rînd va re- ve- | ni ne vom | în- tîl- ni sus cu
+# c.14 T1/T2 cruzadas en los tres primeros tiempos tal como estan impresas (T1 plica arriba = do4, T2 plica abajo = mib4)
+
+@15   # sistema 6
+T1: !Ritard. f4/8 f4/8 f4/8 f4/8 ab4^ ab3/8 bb3/8 | c4/8 eb4/8 eb4/8 f4/8 eb4 db4 | time:3/4 c4/2.
+T2: f4/8 f4/8 eb4/8 eb4/8 dn4^ ab3/8 bb3/8 | c4/8 eb4/8 eb4/8 db4/8 c4 bb3 | ab3/2.
+B1: ab3/8 ab3/8 ab3/8 ab3/8 f3^ ab3/8 ab3/8 | ab3/8 ab3/8 ab3/8 ab3/8 g3 eb3 | eb3/2.
+B2: db3/8 db3/8 c3/8 c3/8 bb2^ f3/8 fb3/8 | eb3/8 c3/8 c3/8 bb2/8 eb3 eb3 | ab2/2.
+L: Dom- nul în- tr-o zi În cu- | rînd a- ca- să toți vom | fi.
