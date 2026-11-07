@@ -5,7 +5,7 @@ arranger: Arr. Wayne Hooper
 key: Ab
 time: 4/4
 tempo: 100
-source: PDF original (foto escaneada muy borrosa, 1 pág., 6 sistemas de 2 pentagramas: TT en Sol 8vb + BB en Fa; "In a Little While We're Going Home", E. E. Hewitt, Arr. by Wayne Hooper, Arrangement Copyright 1959 by Key Music Co.; letra rumana manuscrita, 3 estrofas). Himno SDA Hymnal 626 (https://hymnary.org/hymn/SDAH1985/626 ; https://hymnsforworship.org/sdah-626-little-going-home/ ; acordes https://bradwarden.com/music/hymnchords/?num=626, en Mib en el himnario). Armadura 4 bemoles leida en ambos pentagramas -> Lab mayor (la anotacion manual "FA MAJOR" no concuerda). Tempo no impreso -> 100. Imagen enderezada y binarizada (ajuste local de pentagramas) antes de leer. Estructura: estrofa c.0-8 (anacrusa de 1 tiempo; c.8 de 3 tiempos, doble barra) + estribillo c.9-17 (c.9 = anacrusa de 1 tiempo tras la doble barra; c.17 de 3 tiempos, barra final); no se ven puntos de repeticion en las barras de los sistemas 3 y 6. Estribillo con eco de los bajos (c.10-11, c.13); Ritard. al inicio del sistema 6 y calderon en c.15; asteriscos manuscritos (*) en c.15 ignorados. Las estrofas 2-3 solo tienen letra en la estrofa (c.0-8); el estribillo se canta igual.
+source: PDF original (foto escaneada muy borrosa, 1 pág., 6 sistemas de 2 pentagramas: TT en Sol 8vb + BB en Fa; "In a Little While We're Going Home", E. E. Hewitt, Arr. by Wayne Hooper, Arrangement Copyright 1959 by Key Music Co.; letra rumana manuscrita, 3 estrofas). Himno SDA Hymnal 626 (https://hymnary.org/hymn/SDAH1985/626 ; https://hymnsforworship.org/sdah-626-little-going-home/ ; acordes https://bradwarden.com/music/hymnchords/?num=626, en Mib en el himnario). Armadura 4 bemoles leida en ambos pentagramas -> Lab mayor (la anotacion manual "FA MAJOR" no concuerda). Tempo no impreso -> 100. Imagen enderezada y binarizada (ajuste local de pentagramas) antes de leer. Estructura: estrofa c.0-8 (anacrusa de 1 tiempo; c.8 de 3 tiempos, doble barra) + estribillo c.9-17 (c.9 = anacrusa de 1 tiempo tras la doble barra; c.17 de 3 tiempos, barra final); verificado con ampliacion: el final del sistema 3 es doble barra y el del sistema 6 barra final, sin puntos de repeticion (los puntos visibles son puntillos de las blancas). Estribillo con eco de los bajos (c.10-11, c.13); Ritard. al inicio del sistema 6 y calderon en c.15; asteriscos manuscritos (*) en c.15 ignorados. Las estrofas 2-3 solo tienen letra en la estrofa (c.0-8); el estribillo se canta igual.
 
 # TONALIDAD DECIDIDA: Ab M (4 bemoles en ambas claves; acordes de tonica Lab en c.1, c.3, c.8)
 
@@ -49,8 +49,9 @@ L.BB: | În cu- rînd î- sus | În cu- rînd î- sus În cu-
 T1: eb4. eb4/8 eb4 eb4 | eb4/2. eb4/8 eb4/8 | c4 c4 c4 eb4/8 eb4/8
 T2: eb4. eb4/8 db4 c4 | bb3/2. c4/8 db4/8 | eb4 eb4 eb4 db4/8 c4/8
 B1: ab3. ab3/8 g3 ab3 | g3/2. g3/8 g3/8 | ab3 ab3 ab3 bb3/8 ab3/8
-B2: c3. c3/8 bb2 ab2 | eb3 g2/8_ bb2/8_ ( eb3/8_ db3/8_ ) c3/8 bb2/8 | ab2 eb3 ab3 g3/8 ab3/8
+B2: c3. c3/8 bb2 ab2 | eb3 g2/8_ bb2/8_ ( eb3/8_ db3/8_ ) c3/8 bb2/8 | ab2 eb3 ab3 ab3/8 ab3/8
 L: rînd va re- ve- | ni ne vom | în- tîl- ni sus cu
+# c.14 B2 'sus': ab3 (cabeza desplazada a la derecha de la de B1 = intervalo de 2a con sib3, sobre la 5a linea)
 # c.14 T1/T2 cruzadas en los tres primeros tiempos tal como estan impresas (T1 plica arriba = do4, T2 plica abajo = mib4)
 
 @15   # sistema 6
