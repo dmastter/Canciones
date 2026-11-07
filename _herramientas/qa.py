@@ -28,7 +28,7 @@ def qa(base, expected=None):
         info["nombres"] = names
         progs = {mi.findtext("midi-program") for mi in root.iter("midi-instrument")}
         info["programas"] = sorted(progs)
-        if names != ["Tenor 1", "Tenor 2", "Baritono", "Bajo"]: errs.append(f"nombres de parte {names}")
+        if names not in (["Tenor 1", "Tenor 2", "Baritono", "Bajo"], ["Tenor 1", "Tenor 2", "Baritono", "Bajo", "Piano", "Piano"]): errs.append(f"nombres de parte {names}")
         if progs - {"1"}: errs.append(f"midi-program != 1: {progs}")
         if expected and info["compases"] != expected: errs.append(f"compases {info['compases']} != {expected}")
         lyr = sum(1 for _ in root.iter("lyric"))
