@@ -39,7 +39,7 @@ def accept(folder, song, tanda, key, time, measures, warn):
     dst = REPO / "_herramientas" / "fuentes" / folder / f"{song}.txt"
     dst.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy(src, dst)
-    for t in ["dsl.py", "omrtool.py", "export.py", "qa.py", "guide.py", "inventory.py", "accept.py", "rutas.py", "reporte.py", "review.py", "PROTOCOLO_AGENTE.md"]:
+    for t in ["dsl.py", "omrtool.py", "export.py", "qa.py", "guide.py", "inventory.py", "accept.py", "rutas.py", "reporte.py", "review.py"]:
         shutil.copy(WORK / t, REPO / "_herramientas" / t)
     prog = REPO / "PROGRESO.md"
     s = prog.read_text(encoding="utf-8")
