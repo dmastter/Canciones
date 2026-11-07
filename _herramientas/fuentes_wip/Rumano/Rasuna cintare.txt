@@ -5,7 +5,31 @@ arranger: Prelucrare: G.D.
 key: G
 time: 4/4
 tempo: 100
-source: PDF original (escaneo CamScanner manuscrito, 1 pág. numerada 33; Audiveris falla, sin in.mxl). Estructura leída de la página: intro de piano (1 pentagrama, "introd. pian", 4 compases + anacrusa) y 4 sistemas con 3 pentagramas cada uno (arriba clave de Sol = TT, medio clave de Fa = BB, abajo clave de Sol = línea instrumental/piano a verificar); armadura de 1 sostenido (Sol mayor), compás C (4/4); estrofas 1. y 2. bajo los 3 primeros sistemas; "COR:" empieza en el 4º sistema (letra en mayúsculas: PENTRU VISUL LOR... PENTRU NUNTA LOR CÎNTUL SLAVEI PRINDE ZBOR DOMNUL...); casillas/repeticiones al final del 1er sistema y de la 2ª línea (signos de repetición a verificar). Sin búsqueda web (falta de tiempo). Número de estrofa "1." "2." no se incluye en la letra.
+source: PDF original (escaneo CamScanner manuscrito, 2 págs.). Intro de piano (1 pentagrama, "introd. pian", 4 compases) y sistemas de 3 pentagramas (Sol 8vb = T1/T2, Fa = Bar./Bajo, Sol = piano mano derecha; no hay mano izquierda). Armadura 1 sostenido, compás C.
 
-# TRANSCRIPCION NO INICIADA: no hay ninguna nota verificada todavía.
-# HASTA AQUÍ VERIFICADO: nada (falta toda la canción: intro piano, 4 sistemas de TT/BB + línea inferior)
+@1
+T1: r/1 | r/1 | r/1 | r/1
+T2: =T1
+B1: =T1
+B2: =T1
+PR: d5 g5 e5/8 d5/8 b4/8 a4/8 | g4 d5 b4/8 a4/8 g4/8 e4/8 | d4/8 b4 d4/8 c5 b4 | a4/8 f#5 e5/8 d5/8 e5/8 d5/8 c5/8
+
+@5
+T1: b3/8 b3/8 b3/8 b3/8 c4 c4/8 c4/8 | d4/8 d4/8 d4 e4 d4 | c#4/8 c#4/8 c#4/8 c#4/8 d4 cn4
+T2: g3/8 g3/8 g3/8 g3/8 f#3 f#3/8 f#3/8 | b3/8 b3/8 b3 c4 b3 | g3/8 g3/8 g3/8 g3/8 f#3 f#3
+B1: d3/8 d3/8 d3/8 d3/8 d3 d3/8 d3/8 | a3/8 g3/8 g3 a3 g3 | e3/8 e3/8 e3/8 e3/8 a3 a3
+B2: g2/8 g2/8 g2/8 g2/8 a2 a2/8 a2/8 | b2/8 b2/8 b2 c3 b2 | a2/8 a2/8 a2/8 a2/8 d3 d3
+PR: 3[ b4/8 a4/8 g4/8 ] g4 g4 d5 | d5 g5/8 d5/8 e5/8 c5/8 b4/8 g4/8 | a4 e5 a4 d5
+L: Pen- tru ci- ne oa- re ră- | su- nă cîn- ta- re | Prin- tre ste- le sfîn- tă
+L2: Pen- tru ci- ne în- geri ves- | tesc fe- ri- ci- re | Pre- să- rînd co- mori de
+
+@8
+T1: b3 bb3 eb4 d4 | b3/8 b3/8 b3/8 b3/8 c4 c4/8 c4/8 | d4/8 d4/8 d4/2 e4
+T2: g3 g#3 bb3 c4 | g3/8 g3/8 g3/8 g3/8 f#3 f#3/8 f#3/8 | b3/8 b3/8 b3/2 c4
+B1: d3 d3 g3 f#3 | d3/8 d3/8 d3/8 d3/8 d3 d3/8 d3/8 | a3/8 g3/8 g3/2 a3
+B2: g2 bb2 eb3 d3 | g2/8 g2/8 g2/8 g2/8 a2 a2/8 a2/8 | b2/8 b2/8 b2/2 c3
+PR: g4/8 a4/8 bb4/8 c5/8 d5/8 g5/8 g5/8 f#5/8 | g5/8 g4/8 d5 g5/8 g4/8 d5 | d5/8 b5/8 b5/16 b5/16 g5. e5/8 b5/8
+L: me- lo- di- e? | Pen- tru ce pă- mîn- tul e | tot săr- bă- toa-
+L2: flori di- vi- ne | Un că- min de a- ur pur- | tînd în mă- ri-
+# NOTA DEDUCIDA: c.10 PR (el manuscrito sólo escribe 3 tiempos: d5 b5 | b5 b5 g5 | e5 b5; se alarga g5 a negra con puntillo para completar el compás)
+# HASTA AQUÍ VERIFICADO: c.10
