@@ -109,7 +109,7 @@ L.B2: gar, más a- llá del | sol. | Más a- llá del
 T1: r g3/8. \cresc g3/16 c4 e4 \! | \f g4/1~ | g4 g4/8. g4/16 f#4 e4
 T2: r e3/8. e3/16 g3 c4 | e4/1~ | e4 d4/8. d4/16 c4 c4
 B1: r c3/8. c3/16 e3 g3 | c4/1~ | c4 b3/8. b3/16 a3 f#3
-B2: g3/1~ | g3 g3/8. g3/16 e3 d3 | d3/1~
+B2: g3/1~ | g3 g3/8. g3/16 f#3 e3 | d3/1~
 PR: c4+d4+g4~ c4+d4+g4/8. c5/16 c5+d5+g5~ c5+d5+g5/8. c6/16 | \f c6+d6+g6 r/8. g3/16 d4+e4+g4 d4+g4+c4/8 d4+g4+a3/8 | r 3[ b5+g6/8 a5/8 b5/8 3[ d6+f#6/8 a5/8 b5/8 3[ c6+e6/8 g5/8 a5/8
 PL: c3+g3/2 c4+g4/2 | c4+g4/2. c3 | g2/8.~ g2+d3/16 g2+b3/2.
 L.TT: (más a- llá del | sol) | (más a- llá del

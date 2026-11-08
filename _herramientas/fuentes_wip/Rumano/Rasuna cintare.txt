@@ -5,7 +5,7 @@ arranger: Prelucrare: G.D.
 key: G
 time: 4/4
 tempo: 100
-source: PDF original (escaneo CamScanner de manuscrito, 2 págs.; Audiveris falló, lectura manual con guías de altura a 400 dpi). Intro de piano (1 pentagrama, "introd. pian", c.1-4) y sistemas de 3 pentagramas (Sol 8vb = T1/T2, Fa = Bar./Bajo, Sol = piano mano derecha; no hay mano izquierda: PL en silencio). Sol mayor, compás C, tempo no indicado (100). Forma: estrofa c.5-12, COR c.13-20, continuación c.21-28 con casilla "1.2." y barra de repetición al final de c.28 (no hay signo de inicio de repetición: se vuelve al principio); 2 estrofas (L, L2; el COR sólo tiene un texto impreso). Coda c.29-33: el sistema de la coda sólo trae los pentagramas de voces (c.29-31: piano en silencio) y la última tira pegada (c.32-33, muy desvaída) trae el acorde final con calderón y el piano. Búsqueda web ("Răsună cîntare" Burtescu): no encontrado.
+source: PDF original (escaneo CamScanner de manuscrito, 2 págs.; Audiveris falló, lectura manual con guías de altura a 400 dpi). Intro de piano (1 pentagrama, "introd. pian", c.1-4) y sistemas de 3 pentagramas (Sol 8vb = T1/T2, Fa = Bar./Bajo, Sol = piano mano derecha; no hay mano izquierda: PL en silencio). Sol mayor, compás C, tempo no indicado (100). Forma: estrofa c.5-12, COR c.13-20, continuación c.21-28 con casilla "1.2." y barra de repetición al final de c.28 (no hay signo de inicio de repetición: se vuelve al principio); 2 estrofas (L, L2; el COR sólo tiene un texto impreso). Coda c.29-33: el en c.30-31 la coda cambia a Fa M (armadura de 1 bemol; vuelve a Sol M en la tira final). El sistema de la coda sólo trae los pentagramas de voces (c.29-31: piano en silencio) y la última tira pegada (c.32-33, muy desvaída) trae el acorde final con calderón y el piano. Búsqueda web ("Răsună cîntare" Burtescu): no encontrado.
 
 @1
 T1: r/1 | r/1 | r/1 | r/1
@@ -48,10 +48,10 @@ L2: se gă- tes- te pen- tru | ci- ne?
 
 # COR (un solo texto impreso)
 @13
-T1: e4 e4 e4/8 d4/8 c4 | d4 d4 b3/8 c4/8 d4 | c4 c4 c4 c4 | d4 d4 fn4/2
-T2: c4 c4 c4/8 b3/8 a3 | b3 b3 g#3/8 a3/8 b3 | a3 a3 a3 a3 | b3 b3 d4/2
-B1: g3 g3 f#3/8 f#3/8 f#3 | g3 g3 e3/8 e3/8 e3 | e3 a3 f#3 f#3 | g3 f#3 b3/2
-B2: c3 c3 d3/8 d3/8 d3 | g3 fn3 e3/8 e3/8 g#2 | a2 a2 d3 d3 | g3 f#3 g3/2
+T1: e4 e4 e4/8 d4/8 c4 | d4 d4 b3/8 c4/8 d4 | c4 e4 c4 c4 | d4 d4 fn4/2
+T2: c4 c4 c4/8 b3/8 a3 | b3 b3 g#3/8 a3/8 b3 | a3 c4 a3 a3 | b3 b3 d4/2
+B1: g3 g3 f#3/8 f#3/8 f#3 | g3 g3 e3/8 e3/8 e3 | e3 a3 f#3 f#3 | g3 fn3 b3/2
+B2: c3 c3 d3/8 d3/8 d3 | g3 fn3 e3/8 e3/8 g#2 | a2 a2 d3 d3 | g3 fn3 g3/2
 PR: e5 e5 e5/8 d5/8 c5 | d5 d5 b4/8 c5/8 d5 | c5 e5 d5 d5 | f#4/8 a4/8 a4/8 c5/8 d5/8 e5/8 fn5/8 g5/8
 PL: r/1 | r/1 | r/1 | r/1
 L: PEN- TRU VI- SUL LOR | PEN- TRU NUN- TA LOR | CÎN- TUL SLA- VEI | PRIN- DE ZBOR
@@ -64,9 +64,9 @@ B2: c4 c4 a3/8 a3/8 d3 | g3 fn3 e3/8 e3/8 g#3 | a2 a2 a2 a2 | d3 c3 b2 a2
 PR: e5 c5 a5/8 e5/8 a5 | d5 a4 g#5/8 b4/8 g#5 | a4/8 e5/8 a4/8 e5/8 a4/8 e5/8 a4/8 e5/8 | f#5/8 d5/8 e5/8 c5/8 d5/8 b4/8 c5/16 b4/16 a4/8
 PL: r/1 | r/1 | r/1 | r/1
 L.T1: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT
-L.T2: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL RU- GA)
-L.B1: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL RU- GA)
-L.B2: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL RU- GA)
+L.T2: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL ru- ga)
+L.B1: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL ru- ga)
+L.B2: DOM- NUL I-A IU- BIT | DOM- NUL I-A U- NIT | RU- GA LE-AM- PLI- | NIT (EL ru- ga)
 # NOTA DEDUCIDA: c.18 PR tiempo 2 (a4) y tiempo 3b (b4): cabezas ambiguas entre dos posiciones; elegidas por armonía (Fa mayor / Mi mayor)
 
 @21
@@ -91,10 +91,10 @@ L2: Pes- te noap- tea lu- mii pe | a- ripi îi poar- tă | pî- nă-n zori de ve
 
 # CODA (sistema sólo con voces en c.29-31; c.32-33 en la tira pegada final)
 @29
-T1: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | d4/8 d4/8 d4/8 d4/8 d4/8 d4/8 f#4^ | d4 d4 e4 g4 | g4/1^ | r/1
+T1: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | key:F d4/8 d4/8 d4/8 d4/8 d4/8 d4/8 f#4^ | d4 d4 e4 g4 | key:G g4/1^ | r/1
 T2: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | bb3/8 bb3/8 bb3/8 bb3/8 a3/8 a3/8 c4^ | b3 bb3 c4 e4 | d4/1^ | r/1
 B1: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | f3/8 f3/8 f3/8 f3/8 f#3/8 f#3/8 a3^ | d4 d4 c4 c4 | b3/1^ | r/1
-B2: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | bb2/8 bb2/8 bb2/8 bb2/8 a2/8 a2/8 c3^ | b3 bb3 a3 d3 | g2/1^ | r/1
+B2: g3/8 g3/8 g3/8 g3/8 fn3/8 fn3/8 fn3/8 fn3/8 | bb2/8 bb2/8 bb2/8 bb2/8 a2/8 a2/8 d3^ | b3 bb3 a3 d3 | g2/1^ | r/1
 PR: r/1 | r/1 | r/1 | b5/8 a5/8 g5/8 g5/8~ g5/8 c6/8 a5/8 b5/8 | b4/8 b5 b4/8 g5/2
 PL: r/1 | r/1 | r/1 | r/1 | r/1
 L: Doam- ne dui din sla- văn sla- vă | Pî- nă sus în sla- va Ta | Pî- nă-n sla- va | Ta

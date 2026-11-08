@@ -43,7 +43,7 @@ B1: r | eb3/8 g3/8 g3/8 g3/8 g3. r/8 | eb3/8 ab3/8 ab3/8 ab3/8 ab3 ab3/8 g3/8
 B2: r | eb3/8 eb3/8 eb3/8 eb3/8 eb3. r/8 | ab2/8 ab2/8 ab2/8 ab2/8 ab2 ab2/8 bb2/8
 L.TT: În cu- | rînd î- sus În cu- | rînd î- sus În cu-
 L.BB: | În cu- rînd î- sus | În cu- rînd î- sus În cu-
-# NOTA DEDUCIDA: c.10 T2 3er tiempo (sus): bb3 (cabeza blanca entre linea Si y espacio La; se toma Sib por el acorde de Mib7 del bajo y el paralelo con c.11)
+# c.10 T2 3er tiempo (sus): bb3 (revisado: cabeza blanca sobre la linea Si, bajo el reb4 de T1 en la linea Re; concuerda con el Mib7 del bajo)
 
 @12   # sistema 5
 T1: eb4. eb4/8 eb4 eb4 | eb4/2. eb4/8 eb4/8 | c4 c4 c4 eb4/8 eb4/8
@@ -51,6 +51,7 @@ T2: eb4. eb4/8 db4 c4 | bb3/2. c4/8 db4/8 | eb4 eb4 eb4 db4/8 c4/8
 B1: ab3. ab3/8 g3 ab3 | g3/2. g3/8 g3/8 | ab3 ab3 ab3 bb3/8 ab3/8
 B2: c3. c3/8 bb2 ab2 | eb3 g2/8_ bb2/8_ ( eb3/8_ db3/8_ ) c3/8 bb2/8 | ab2 eb3 ab3 ab3/8 ab3/8
 L: rînd va re- ve- | ni ne vom | în- tîl- ni sus cu
+# c.13 B2 2a corchea tras 'ni': bb2 (cabeza entre la linea Si2 y el espacio Do3, se lee Sib2 = arpegio de Mib7 sol2-sib2-mib3-reb3)
 # c.14 B2 'sus': ab3 (cabeza desplazada a la derecha de la de B1 = intervalo de 2a con sib3, sobre la 5a linea)
 # c.14 T1/T2 cruzadas en los tres primeros tiempos tal como estan impresas (T1 plica arriba = do4, T2 plica abajo = mib4)
 
