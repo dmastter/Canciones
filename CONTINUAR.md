@@ -15,25 +15,8 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **ht
 - Todas las rutas de máquina están en `_herramientas/rutas.py` (se pueden forzar con `CANCIONES_REPO`, `CANCIONES_WORK`, `MUSESCORE`, `AUDIVERIS`). En otro PC basta con ajustar ese fichero.
 
 ## Estado (la fuente de verdad es `PROGRESO.md` en la raíz)
-- **Parada 2026-11-07 (PC de casa: repo `C:/Users/diego/Canciones`, trabajo `C:/Users/diego/Canciones_work`)**: 6 de las 8 pendientes transcritas y exportadas, 4 ya pasadas por un corrector independiente; ninguna aceptada aún. Detalle en la línea ⏸ PARADA 2026-11-07 de `PROGRESO.md`. En este PC `rutas.py` resuelve solo las rutas; el protocolo con rutas locales está en `Canciones_work/PROTOCOLO_AGENTE.md`.
-- **41 ✅** terminadas y subidas (las últimas, 2026-10-30: Printre Spini, Its me oh Lord) (11 ficheros cada una: Partitura_Grupal.pdf, Edicion/partitura.musicxml+mscz, MIDIS/×4, MP3/×4).
-- **6 ⛔** bloqueadas (no tocar): Good News (arr. Wayne Hooper, © 1963 Key Music Co.; bloqueada por decisión del usuario el 2026-10-30), Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
-- **8 pendientes**: Español: Aleluya, Cristo viene · Más allá de sol (lleva piano: PR:/PL:) · Sa nu te temi( letra Español) (nombre = el del PDF; el WIP antiguo usa 'Sa nu te temi (letra Español)'). Navidad: Pequeño pueblo de Belen Gaither. Rumano: In curand acas · Rasuna cintare · Sa nu te temi · Un sol ceresc.
-- Lo que haya a medias está en `_herramientas/fuentes_wip/` (DSL parciales). Cada uno acaba con `# HASTA AQUÍ ...`: lo anterior lo leyó un subagente u orquestador contra la imagen, pero **la revisión global sigue pendiente**. El detalle por canción está en la línea ⏸ PARADA de `PROGRESO.md`. Resumen de la parada del 2026-10-29 11:10Z:
-  - Good News: BLOQUEADA (ya no se continúa; WIP c.0-40 conservado).
-  - Aleluya: c.0-10.
-  - Más allá de sol: c.1-7.
-  - Sa nu te temi (Español): c.1-4.
-  - Its me oh Lord: c.0-1.
-  - Rumano/Sa nu te temi: c.1-2 parciales (T1/T2 sin leer nota a nota, graves deducidos).
-  - Un sol ceresc: c.0.
-  - Gaither, In curand acas y Rasuna cintare: sólo cabecera y notas de lectura.
-  - El enjambre de 11 agentes de ~4 min de esta parada apenas avanzó (escaneos degradados): lanza agentes largos, uno por canción, y que mejoren antes la imagen.
-- Al copiar los parciales a `Canciones_work/songs/`, comprueba que no pisas otros más avanzados (en este equipo ya están ahí).
-- Muchas fotos están inclinadas y `guide.py` no detecta las líneas. Los subagentes hicieron scripts de enderezado y guías locales, copiados en `_herramientas/ayudas_wip/<WORK>/`. Úsalos, o mejor, generaliza uno en `guide.py`.
-- El OMR (in.mxl, draft.txt, crops) ya está hecho en este equipo para todas salvo Rasuna cintare (Audiveris falla), R_Sa_nu_te_temi y R_Un_sol_ceresc (cortado). Los borradores OMR de Gaither, In curand acas y Aleluya son inservibles.
-- Hay carpetas de salida de prueba sin commitear (`Español/Sa nu te temi (letra Español)/`, `Inglés/Its me oh Lord/`). Son borradores: bórralas o regenéralas, y no las subas tal cual.
-- En Windows, `git status` muestra `Inglés /*.pdf` como modificados (sparse-checkout). No los añadas.
+- **Parada 2026-11-08 ~02:10 (PC de casa: repo `C:/Users/diego/Canciones`, trabajo `C:/Users/diego/Canciones_work`)**: 48 ✅ + 6 ⛔ = 54/55 (98 %). **Solo falta Rumano/Un sol ceresc**: transcrita entera (58 c., Lab M, 4/4, QA PASS; DSL en `_herramientas/fuentes_wip/Rumano/Un sol ceresc.txt`), pero el corrector independiente se interrumpió sin aplicar cambios. Pasos: (1) copia ese DSL a `Canciones_work/songs/Rumano/`, `export.py` y lanza un corrector (subagente) que lo compare compás a compás con el PDF; dudas del transcriptor: c.16 B1, c.21 T1, c.24 B1 deducidas (márgenes cortados), c.26 B2 «glasul», c.42-43 Bajo en unísono con Bar., c.56-57 Bajo ab3; los compases impresos 35-39 (segunda repetición) están desarrollados en c.34-41. (2) `accept.py "Rumano" "Un sol ceresc" 7 "La♭ M" "4/4" 58 "<advertencias>"`. (3) Sigue «Al terminar» (abajo); la descripción de la PR ya está redactada en `_herramientas/fuentes_wip/PR_BODY.md` (ajusta el recuento si hace falta y borra el fichero al final).
+- **6 ⛔** bloqueadas (no tocar): Good News (arr. Wayne Hooper, © 1963 Key Music Co.; bloqueada por decisión del usuario el 2026-10-30; su WIP c.0-40 se conserva en `_herramientas/fuentes_wip/Inglés/Good News.txt`), Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
 
 ## Herramientas
 - `PROTOCOLO_AGENTE.md`: el protocolo para cada subagente. Usa modelo `sonnet`, `run_in_background: true` y como máximo 20 a la vez. Pásale el bloque de rutas de su canción:
