@@ -71,4 +71,14 @@ B1: gn3/8 g3/8~ g3/2 g3/8 g3/8 | g3. e3/8 e3 g3
 B2: a2/8 a2/8~ a2/2 a2/8 a2/8 | a2. a2/8 a2 a2
 L: a- ma e nos | dá o que_é me-
 
-# SIGUIENTE: c.32-54 (impresos 33-55): c.33 (impreso 34) graves con plicas separadas; c.34 (impreso 35) cambio a La♭ M; c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
+# c.32-33 (impresos 33-34): el Bar. canta '(O que_é me-lhor)' solo; T2 mi♭3 en la anacrusa 'Deus' del cambio de tono
+@32
+T1: cn4/1 | db4/2._ db4
+T2: a3/1 | bb3/2._ eb3
+B1: g3/2. r/8 g3/8 | ab3 fn3 ( g3/8 ab3/8_ ) bb3
+B2: d3/1 | eb3/2._ eb3
+L.TT: lhor. | Deus
+L.B1: lhor. (O | que_é me- lhor). Deus
+L.B2: lhor. | Deus
+
+# SIGUIENTE: c.34-54 (impresos 35-55): c.34 cambio a La♭ M (key:Ab en T1); c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
