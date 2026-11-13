@@ -47,5 +47,28 @@ B1: a3/8 a3. 3[ a3 b3 c4 ]
 B2: g3/8 g3. 3[ g3 g3 a3 ]
 L: ne- cem Seu co- ra-
 
-# SIGUIENTE: c.25 (impreso 26) graves a dos voces (plicas arriba/abajo, ligaduras), luego c.26-54 (impresos 27-55):
-# c.26 'Um pouco mais movido' + mf 'mel.' en tenores; c.34 (impreso 35) cambio a La♭ M; c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
+# c.25-27 (impresos 26-28); c.25 graves a dos voces (Bar. plicas arriba, Bajo abajo)
+@25
+T1: d4/2~ d4. \mf g3/8 | !Um_pouco_mais_movido e4/8 e4/8~ e4/2 d4/8 c4/8 | e4/8 e4/8~ e4/2 d4/8 c4/8
+T2: b3/2~ b3. g3/8 | d4/8 d4/8~ d4/2 c4/8 c4/8 | c4/8 c4/8~ c4/2 d4/8 c4/8
+B1: b3. a3/8_~ a3. g3/8 | g3/8 g3/8~ g3/2 g#3/8 g#3/8 | a3/8 a3/8~ a3/2 a3/8 a3/8
+B2: g3 f#3_ fn3._ g3/8 | c3/8 c3/8~ c3/2 e3/8 e3/8 | gn3/8 g3/8~ g3/2 g3/8 g3/8
+L: ção. E- | le_ou- ve os cla- | mo- res e não
+
+# c.28-29 (impresos 29-30); c.29 'mel.' en los tenores; Bar. sol#3 con ligadura de expresión desde la3
+@28
+T1: d4/8 d4/8~ d4/2 c4/8 b3/8 | d4/8 d4.~ d4 e4/8 d4/8
+T2: b3/8 b3/8~ b3/2 c4/8 b3/8 | b3/8 b3.~ b3 c4/8 b3/8
+B1: a3/8 a3/8~ a3/2 a3/8 a3/8 | a3/8 a3. g#3_ g#3/8 g#3/8
+B2: f#3/8 f#3/8~ f#3/2 f#3/8 f#3/8 | e3/8 e3.~ e3 e3/8 e3/8
+L: ne- ga Seus fa- | vo- res; Deus nos
+
+# c.30-31 (impresos 31-32); c.30 última corchea de tenores leída re4/si3 (el OMR da do4: VERIFICAR); c.31 T2 corcheas mi3-si3 con ligadura (melisma), T1 negra do#4
+@30
+T1: d4/8 d4/8~ d4/2 d4/8 d4/8 | c#4. c#4/8 c#4 c#4
+T2: b3/8 a3/8~ a3/2 a3/8 b3/8 | a3. g3/8 g3 ( e3/8 b3/8_ )
+B1: gn3/8 g3/8~ g3/2 g3/8 g3/8 | g3. e3/8 e3 g3
+B2: a2/8 a2/8~ a2/2 a2/8 a2/8 | a2. a2/8 a2 a2
+L: a- ma e nos | dá o que_é me-
+
+# SIGUIENTE: c.32-54 (impresos 33-55): c.33 (impreso 34) graves con plicas separadas; c.34 (impreso 35) cambio a La♭ M; c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
