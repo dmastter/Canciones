@@ -81,4 +81,12 @@ L.TT: lhor. | Deus
 L.B1: lhor. (O | que_é me- lhor). Deus
 L.B2: lhor. | Deus
 
-# SIGUIENTE: c.34-54 (impresos 35-55): c.34 cambio a La♭ M (key:Ab en T1); c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
+# c.34-36 (impresos 35-37): cambio a La♭ M tras doble barra
+@34
+T1: key:Ab eb4 eb4/2 eb4/8 eb4/8 | eb4 eb4/2 eb4/8 eb4/8 | eb4 db4/2 db4/8 eb4/8
+T2: c4 c4/2 c4/8 bb3/8 | c4 c4/2 c4/8 c4/8 | c4 bb3/2 bb3/8 c4/8
+B1: bb3 bb3/2 ab3/8 bb3/8 | g3 g3/2 bb3/8 g3/8 | f3 f3/2 f3/8 f3/8
+B2: ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8
+L: ou- ve, Deus res- | pon- de, É tão | do- ce Su- a
+
+# SIGUIENTE: c.37-54 (impresos 38-55): c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
