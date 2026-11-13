@@ -14,3 +14,38 @@ T2: d3 | a3 a3/2 g3/8 g3/8 | a3 a3/2 a3/8 a3/8 | g3 g3/2 g3/8 g3/8 | g3/2 r d3 |
 B1: d3 | d3 d3/2 d3/8 d3/8 | f#3 f#3/2 f#3/8 f#3/8 | e3 e3/2 e3/8 e3/8 | e3/2 r d3 | d3 d3/2 e3/8 e3/8 | e3 e3/2 d3/8 d3/8
 B2: d3 | g2 g2/2 g2/8 g2/8 | g2 g2/2 d3/8 d3/8 | c3 c3/2 c3/8 c3/8 | c3/2 r d3 | c3 c3/2 c3/8 c3/8 | d3 d3/2 d3/8 c3/8
 L: Deus | ou- ve, Deus res- | pon- de, É tão | do- ce Su- a | voz; Deus | cui- da, Deus a- | ten- de, Su- as
+
+# c.7-11 (impresos 8-12); c.10 Bar. sol# (sostenido impreso); c.11 T2 corcheas do4-re4 ligadas (T1 negra mi4)
+@7
+T1: a3/2 3[ g3 a3 b3 ] | b3/2. \cresc b3/8 c4/8 \! | d4 d4/2 b3/8 c4/8 | d4 d4/2 c4/8 d4/8 | e4 e4/2 c4/8 d4/8
+T2: g3/2 3[ g3 g3 g3 ] | g3/2. g3/8 a3/8 | b3 b3/2 b3/8 c4/8 | c4 b3/2 c4/8 b3/8 | ( c4/8 d4/8_ ) c4/2 a3/8 b3/8
+B1: eb3/2 3[ eb3 eb3 d3 ] | d3/2. d3/8 g3/8 | a3 a3/2 a3/8 a3/8 | g#3 g#3/2 g#3/8 g#3/8 | gn3 gn3/2 g3/8 g3/8
+B2: c3/2 3[ c3 c3 g2 ] | g2/2. d3/8 d3/8 | f#3 f#3/2 fn3/8 fn3/8 | e3 e3/2 e3/8 e3/8 | a2 a2/2 e3/8 e3/8
+L: mãos to- cam em | nós. E- le | gui- a nos- sos | pas- sos, nos en- | vol- ve em Seus
+
+# c.12-18 (impresos 13-19); c.14 T2 sol#3 con dos sostenidos impresos junto al acorde (lectura sol#3+si3, acorde de Mi7: dudoso); c.18 'mel.' en el pentagrama de graves
+@12
+T1: ( d4/8 c4/8_ ) \dim c4/2 \! d4 | b3 b3/2 b3/8 e4/8 | b3 b3/2 c4 | c4/2 d4 ( c4/8 g3/8_ ) | b3/1 | r/1 | r \mp a3 a3 b3/8 c4/8
+T2: ( b3/8 a3/8_ ) a3/2 a3 | a3 a3/2 a3/8 a3/8 | a3 g#3/2 g#3 | a3/2 b3 ( a3/8 g3/8_ ) | g3/1 | r/1 | r a3 a3 b3/8 c4/8
+B1: g3 g3/2 g3 | d3 d3/2 d3/8 d3/8 | d3 d3/2 e3 | gn3/2 f#3 e3 | d3/1 | r/1 | r f#3 f#3 g3/8 a3/8
+B2: eb3 eb3/2 eb3 | d3 d3/2 f#2/8 f#2/8 | e2 e2/2 e3 | a2/2 d3 d3 | g2/1 | r/1 | r f#3 f#3 g3/8 a3/8
+L: bra- ços. Deus | ou- ve, Deus res- | pon- de, Deus | cui- da de | nós. | | 1.Deus pá- ra pra_ou-
+
+# c.19-23 (impresos 20-24); c.22 'mel.' en los tenores
+@19
+T1: c4/2. r/8 c4/8 | c4/8 c4/8~ c4/2 c4/8 b3/8 | b3/1 | r a3 a3 b3/8 c4/8 | c4/2. \cresc c4/8 d4/8 \!
+T2: c4/2. r/8 c4/8 | c4/8 c4/8~ c4/2 g3/8 g3/8 | g3/1 | r f#3 f#3 g3/8 a3/8 | a3/2. a3/8 b3/8
+B1: a3/2. r/8 e3/8 | e3/8 g3/8~ g3/2 e3/8 d3/8 | d3/1 | r f#3 f#3 g3/8 a3/8 | a3/2. a3/8 b3/8
+B2: a3/2. r/8 e3/8 | e3/8 e3/8~ e3/2 g2/8 g2/8 | g2/1 | r f#3 f#3 g3/8 a3/8 | a3/2. f#3/8 f#3/8
+L: vir a | nos- sa o- ra- | ção; | As pre- ces com | fé en- ter-
+
+# c.24 (impreso 25): tresillo de negras; graves del tresillo (la3/sol3, si3/sol3, do4/la3) PENDIENTE DE VERIFICAR con zoom
+@24
+T1: eb4/8 eb4. 3[ eb4 eb4 eb4 ]
+T2: c4/8 c4. 3[ c4 b3 a3 ]
+B1: a3/8 a3. 3[ a3 b3 c4 ]
+B2: g3/8 g3. 3[ g3 g3 a3 ]
+L: ne- cem Seu co- ra-
+
+# SIGUIENTE: c.25 (impreso 26) graves a dos voces (plicas arriba/abajo, ligaduras), luego c.26-54 (impresos 27-55):
+# c.26 'Um pouco mais movido' + mf 'mel.' en tenores; c.34 (impreso 35) cambio a La♭ M; c.40 div. con tresillo; c.46 'Tempo do início'; c.50 rall.
