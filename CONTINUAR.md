@@ -15,7 +15,7 @@ Continúa el proyecto de transcripción de partituras corales TTBB del repo **ht
 - Todas las rutas de máquina están en `_herramientas/rutas.py` (se pueden forzar con `CANCIONES_REPO`, `CANCIONES_WORK`, `MUSESCORE`, `AUDIVERIS`). En otro PC basta con ajustar ese fichero.
 
 ## Estado (la fuente de verdad es `PROGRESO.md` en la raíz)
-- **TERMINADO 2026-11-14 (PC de casa)**: 50 ✅ + 6 ⛔ (las 55 originales + «Portugués/Deus ouve, Deus responde», aceptada en la tanda 8 tras dos correctores). REPORTE.md regenerado (50/50 QA_PASS), `fuentes_wip/` vaciado salvo Good News y PR abierta contra `Jaguar077/Canciones`. Si se añaden canciones nuevas, mismo flujo: DSL, export.py, review.py, corrector, accept.py con una tanda nueva.
+- **TERMINADO 2026-11-14 (PC de casa)**: 50 ✅ + 6 ⛔ (las 55 originales + «Portugués/Deus ouve, Deus responde», aceptada en la tanda 8 tras dos correctores). REPORTE.md regenerado (50/50 QA_PASS), `fuentes_wip/` vaciado salvo Good News y PR abierta: https://github.com/Jaguar077/Canciones/pull/1 (desde el fork nuevo `dmastter/Canciones-ttbb`, remoto `pr`; `dmastter/Canciones` ya no es fork de Jaguar077 y no admite PR). Para cambios en la PR: push a `pr` y a `fork`. Si se añaden canciones nuevas, mismo flujo: DSL, export.py, review.py, corrector, accept.py con una tanda nueva.
 - **6 ⛔** bloqueadas (no tocar): Good News (arr. Wayne Hooper, © 1963 Key Music Co.; bloqueada por decisión del usuario el 2026-10-30; su WIP c.0-40 se conserva en `_herramientas/fuentes_wip/Inglés/Good News.txt`), Brilla en mi (el PDF es un duplicado de O tata bun), Here Comes the Light (Shawnee, copia preview), Wonderfull Grace of Jesus (Lorenz), It came upon the midnight (Navidad y español: arreglo de Joel Raney, copia PREVIEW).
 
 ## Herramientas
