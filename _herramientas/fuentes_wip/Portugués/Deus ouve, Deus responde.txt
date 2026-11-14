@@ -105,7 +105,7 @@ B1: bb3 bb3/2 bb3/8 bb3/8 | an3 an3/2 an3/8 an3/8 | ab3 ab3/2 ab3/8 ab3/8 | ab3 
 B2: g3 g3/2 gb3/8 gb3/8 | f3 f3/2 f3/8 f3/8 | bb2 bb2/2 f3/8 f3/8 | fb3 fb3/2 fb3
 L: gui- a nos- sos | pas- sos, nos en- | vol- ve em Seus | bra- ços. Deus
 
-# c.46-48 (impresos 47-49): 'Tempo do início' (♩=76); T2 corcheas ligadas en el 1er tiempo de c.46-47; c.48 mitad T1/T2 re♭4/si♭3 (el OMR y la analogía con el impreso 16 coinciden; en la imagen parece algo más baja: VERIFICAR)
+# c.46-48 (impresos 47-49): 'Tempo do início' (♩=76); T2 corcheas ligadas en el 1er tiempo de c.46-47; c.48 mitad T1/T2 re♭4/si♭3 (verificado por perfil de píxeles)
 @46
 T1: tempo:76 !Tempo_do_início c4 c4/2 c4/8 f4/8 | c4 \dim c4/2 \! db4 | db4/2 eb4 ( db4/8 ab3/8_ )
 T2: ( ab3/8 bb3/8_ ) bb3/2 bb3/8 bb3/8 | ( bb3/8 g3/8_ ) an3/2 an3 | bb3/2 c4 ( bb3/8 ab3/8_ )
@@ -113,4 +113,10 @@ B1: eb3 eb3/2 eb3/8 eb3/8 | eb3 eb3/2 f3 | ab3/2 g3 g3
 B2: eb3 eb3/2 g2/8 g2/8 | f2 f2/2 f3 | bb2/2 eb3 eb3
 L: ou- ve, Deus res- | pon- de, Deus | cui- da de
 
-# SIGUIENTE: c.49-54 (impresos 50-55): c.49 graves y tenores con ligaduras y regulador, anacrusa 'Deus' en corchea; c.50 rall.; c.53-54 redondas ligadas finales
+# c.49-54 (impresos 50-55): c.49 graves fa♭3 (bemol impreso); c.50 'rall.'; c.51 T2 corchea con puntillo + semicorchea la♮3; c.52 figura semicorchea + corchea con puntillo en tenores; final redondas ligadas
+@49
+T1: \cresc c4/2 db4._ \! eb4/8 | c4 c4/2 !rall. f4/8 c4/8 | c4 c4/2 db4 | db4/2 eb4 db4/16 ab3/8._ | c4/1~ | c4/1
+T2: ab3/2 bb3._ bb3/8 | ( bb3/8 ab3/8_ ) ab3/2 bb3/8 bb3/8 | ( bb3/8. an3/16_ ) an3/2 an3 | bb3/2 c4 bb3/16 ab3/8._ | ab3/1~ | ab3/1
+B1: f3/2 ab3._ ab3/8 | eb3 eb3/2 eb3/8 eb3/8 | eb3 eb3/2 f3 | ab3/2 g3 f3 | eb3/1~ | eb3/1
+B2: f3/2 fb3._ fb3/8 | eb3 eb3/2 g2/8 gb2/8 | f2 f2/2 f3 | bb2/2 eb2 eb2 | ab2/1~ | ab2/1
+L: nós. Deus | ou- ve, Deus res- | pon- de, Deus | cui- da de | nós. |
