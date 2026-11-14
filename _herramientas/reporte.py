@@ -8,7 +8,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import qa as qamod
 
 from rutas import REPO
-CARPETAS = {"Español": 19, "Inglés": 3, "Navidad": 5, "Rumano": 28}
+CARPETAS = {"Español": 19, "Inglés": 3, "Navidad": 5, "Rumano": 28, "Portugués": 1}
 
 
 def leer_progreso():

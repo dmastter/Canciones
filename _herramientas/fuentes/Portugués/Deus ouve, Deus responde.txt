@@ -1,0 +1,122 @@
+title: Deus ouve, Deus responde
+composer: Silmar Correia
+lyricist: Valdecir S. Lima e S. C.
+arranger: Marcelo Augusto de Carvalho
+key: G
+time: 4/4
+tempo: 76
+source: PDF ARAUTOS-DEUS_OUVE_DEUS_RESPONDE_2006.pdf (4tons.com, © 2006 Novo Tempo, 'Para TTBB - opcional a cappella'); WIP: OJO numeración DSL = impresa - 1 (la anacrusa impresa es el c.1)
+
+# WIP 2026-11-13: leídos c.0-6 del DSL (impresos 1-7), cotejados con el borrador OMR (draft.txt, tenores una 8va alta en el OMR)
+@0
+T1: \mp d3 | b3 b3/2 b3/8 a3/8 | b3 b3/2 b3/8 b3/8 | b3 a3/2 a3/8 b3/8 | a3/2 r d3 | a3 a3/2 a3/8 b3/8 | a3 a3/2 b3/8 a3/8
+T2: d3 | a3 a3/2 g3/8 g3/8 | a3 a3/2 a3/8 a3/8 | g3 g3/2 g3/8 g3/8 | g3/2 r d3 | f#3 f#3/2 g3/8 g3/8 | f#3 f#3/2 f#3/8 f#3/8
+B1: d3 | d3 d3/2 d3/8 d3/8 | f#3 f#3/2 f#3/8 f#3/8 | e3 e3/2 e3/8 e3/8 | e3/2 r d3 | d3 d3/2 e3/8 e3/8 | e3 e3/2 d3/8 d3/8
+B2: d3 | g2 g2/2 g2/8 g2/8 | g2 g2/2 d3/8 d3/8 | c3 c3/2 c3/8 c3/8 | c3/2 r d3 | c3 c3/2 c3/8 c3/8 | d3 d3/2 d3/8 c3/8
+L: Deus | ou- ve, Deus res- | pon- de, É tão | do- ce Su- a | voz; Deus | cui- da, Deus a- | ten- de, Su- as
+
+# c.7-11 (impresos 8-12); c.10 Bar. sol# (sostenido impreso); c.11 T2 corcheas do4-re4 ligadas (T1 negra mi4)
+@7
+T1: a3/2 3[ g3 a3 b3 ] | b3/2. \cresc b3/8 c4/8 \! | d4 d4/2 b3/8 c4/8 | d4 d4/2 c4/8 d4/8 | e4 e4/2 c4/8 d4/8
+T2: g3/2 3[ g3 g3 g3 ] | g3/2. g3/8 a3/8 | b3 b3/2 b3/8 c4/8 | c4 b3/2 c4/8 b3/8 | ( c4/8 d4/8_ ) c4/2 a3/8 b3/8
+B1: eb3/2 3[ eb3 eb3 d3 ] | d3/2. d3/8 g3/8 | a3 a3/2 a3/8 a3/8 | g#3 g#3/2 g#3/8 g#3/8 | gn3 gn3/2 g3/8 g3/8
+B2: c3/2 3[ c3 c3 g2 ] | g2/2. d3/8 d3/8 | f#3 f#3/2 fn3/8 fn3/8 | e3 e3/2 e3/8 e3/8 | a2 a2/2 e3/8 e3/8
+L: mãos to- cam em | nós. E- le | gui- a nos- sos | pas- sos, nos en- | vol- ve em Seus
+
+# c.12-18 (impresos 13-19); c.14 T2 sol#3 con dos sostenidos impresos junto al acorde (un solo sostenido de doble trazo: sol#3+si3, verificado por perfil de píxeles); c.18 'mel.' en el pentagrama de graves
+@12
+T1: ( d4/8 c4/8_ ) \dim c4/2 \! d4 | b3 b3/2 b3/8 e4/8 | b3 b3/2 c4 | c4/2 d4 ( c4/8 g3/8_ ) | b3/1 | r/1 | r \mp a3 a3 b3/8 c4/8
+T2: ( b3/8 a3/8_ ) a3/2 a3 | a3 a3/2 a3/8 a3/8 | a3 g#3/2 g#3 | a3/2 b3 ( a3/8 g3/8_ ) | g3/1 | r/1 | r a3 a3 b3/8 c4/8
+B1: g3 g3/2 g3 | d3 d3/2 d3/8 d3/8 | d3 d3/2 e3 | gn3/2 f#3 e3 | d3/1 | r/1 | r f#3 f#3 g3/8 a3/8
+B2: eb3 eb3/2 eb3 | d3 d3/2 f#2/8 f#2/8 | e2 e2/2 e3 | a2/2 d3 d3 | g2/1 | r/1 | r f#3 f#3 g3/8 a3/8
+L: bra- ços. Deus | ou- ve, Deus res- | pon- de, Deus | cui- da de | nós. | | 1.Deus pá- ra pra_ou-
+
+# c.19-23 (impresos 20-24); c.22 'mel.' en los tenores
+@19
+T1: c4/2. r/8 c4/8 | c4/8 c4/8~ c4/2 c4/8 b3/8 | b3/1 | r a3 a3 b3/8 c4/8 | c4/2. \cresc c4/8 d4/8 \!
+T2: c4/2. r/8 c4/8 | c4/8 c4/8~ c4/2 g3/8 g3/8 | g3/1 | r f#3 f#3 g3/8 a3/8 | a3/2. a3/8 b3/8
+B1: a3/2. r/8 e3/8 | e3/8 g3/8~ g3/2 e3/8 d3/8 | d3/1 | r f#3 f#3 g3/8 a3/8 | a3/2. a3/8 b3/8
+B2: a3/2. r/8 e3/8 | e3/8 e3/8~ e3/2 g2/8 g2/8 | g2/1 | r f#3 f#3 g3/8 a3/8 | a3/2. f#3/8 f#3/8
+L: vir a | nos- sa o- ra- | ção; | As pre- ces com | fé en- ter-
+
+# c.24 (impreso 25): tresillo de negras; graves del tresillo la3/sol3, si3/sol3, do4/sol3 (verificado por perfil de píxeles)
+@24
+T1: eb4/8 eb4. 3[ eb4 eb4 eb4 ]
+T2: c4/8 c4. 3[ c4 b3 a3 ]
+B1: a3/8 a3. 3[ a3 b3 c4 ]
+B2: g3/8 g3. 3[ g3 g3 g3 ]
+L: ne- cem Seu co- ra-
+
+# c.25-27 (impresos 26-28); c.25 graves a dos voces (Bar. plicas arriba, Bajo abajo)
+@25
+T1: d4/2~ d4. \mf g3/8 | !Um_pouco_mais_movido e4/8 e4/8~ e4/2 d4/8 c4/8 | e4/8 e4/8~ e4/2 d4/8 c4/8
+T2: b3/2~ b3. g3/8 | d4/8 d4/8~ d4/2 c4/8 c4/8 | c4/8 c4/8~ c4/2 d4/8 c4/8
+B1: b3. a3/8_~ a3. g3/8 | g3/8 g3/8~ g3/2 g#3/8 g#3/8 | a3/8 a3/8~ a3/2 a3/8 a3/8
+B2: g3 f#3_ fn3._ g3/8 | c3/8 c3/8~ c3/2 e3/8 e3/8 | gn3/8 g3/8~ g3/2 g3/8 g3/8
+L: ção. E- | le_ou- ve os cla- | mo- res e não
+
+# c.28-29 (impresos 29-30); c.29 'mel.' en los tenores; Bar. sol#3 con ligadura de expresión desde la3
+@28
+T1: d4/8 d4/8~ d4/2 c4/8 b3/8 | d4/8 d4.~ d4 e4/8 d4/8
+T2: b3/8 b3/8~ b3/2 c4/8 b3/8 | b3/8 b3.~ b3 c4/8 b3/8
+B1: a3/8 a3/8~ a3/2 a3/8 a3/8 | a3/8 a3. g#3_ g#3/8 g#3/8
+B2: f#3/8 f#3/8~ f#3/2 f#3/8 f#3/8 | e3/8 e3.~ e3 e3/8 e3/8
+L: ne- ga Seus fa- | vo- res; Deus nos
+
+# c.30-31 (impresos 31-32); c.30 última corchea de tenores leída re4/si3 (verificado por perfil de píxeles; el OMR daba do4); c.31 T2 corcheas mi3-si3 con ligadura (melisma), T1 negra do#4
+@30
+T1: d4/8 d4/8~ d4/2 d4/8 d4/8 | c#4. c#4/8 c#4 c#4
+T2: b3/8 a3/8~ a3/2 a3/8 b3/8 | a3. g3/8 g3 ( e3/8 b3/8_ )
+B1: gn3/8 g3/8~ g3/2 g3/8 g3/8 | g3. e3/8 e3 g3
+B2: a2/8 a2/8~ a2/2 a2/8 a2/8 | a2. a2/8 a2 a2
+L: a- ma e nos | dá o que_é me-
+
+# c.32-33 (impresos 33-34): el Bar. canta '(O que_é me-lhor)' solo; T2 mi♭3 en la anacrusa 'Deus' del cambio de tono
+@32
+T1: cn4/1 | db4/2._ db4
+T2: a3/1 | bb3/2._ eb3
+B1: g3/2. r/8 g3/8 | ab3 fn3 ( g3/8 ab3/8_ ) bb3
+B2: d3/1 | eb3/2._ eb3
+L.TT: lhor. | Deus
+L.B1: lhor. (O | que_é me- lhor). Deus
+L.B2: lhor. | Deus
+
+# c.34-36 (impresos 35-37): cambio a La♭ M tras doble barra
+@34
+T1: key:Ab eb4 eb4/2 eb4/8 eb4/8 | eb4 eb4/2 eb4/8 eb4/8 | eb4 db4/2 db4/8 eb4/8
+T2: c4 c4/2 c4/8 bb3/8 | c4 c4/2 c4/8 c4/8 | c4 bb3/2 bb3/8 c4/8
+B1: bb3 bb3/2 ab3/8 bb3/8 | g3 g3/2 bb3/8 g3/8 | f3 f3/2 f3/8 f3/8
+B2: ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8
+L: ou- ve, Deus res- | pon- de, É tão | do- ce Su- a
+
+# c.37-41 (impresos 38-42); c.40 graves la♭3/fa♭3 (corrector, verificado por píxeles); c.39 última corchea de tenores re♭4/si♭3 (verificado por perfil de píxeles; el OMR daba do4); c.40 'div.' con tresillo de negras; c.41 'mel.' en tenores
+@37
+T1: db4/2 r db4 | db4 db4/2 db4/8 db4/8 | db4 db4/2 eb4/8 db4/8 | db4/2 3[ db4 db4 c4 ] | c4/2. c4/8 db4/8
+T2: bb3/2 r eb3 | bb3 bb3/2 bb3/8 c4/8 | bb3 bb3/2 c4/8 bb3/8 | bb3/2 3[ ab3 bb3 ab3 ] | ab3/2. ab3/8 bb3/8
+B1: f3/2 r ( ab3/8 bb3/8_ ) | g3 g3/2 ab3/8 ab3/8 | ( ab3/8 g3/8_ ) g3/2 g3/8 g3/8 | ab3/2 3[ ab3 ab3 eb3 ] | eb3/2. eb3/8 ab3/8
+B2: ab2/2 r eb3 | eb3 eb3/2 bb2/8 bb2/8 | eb3 eb3/2 eb3/8 eb3/8 | fb3/2 3[ fb3 fb3 ab2 ] | ab2/2. eb3/8 eb3/8
+L: voz; Deus | cui- da, Deus a- | ten- de, Su- as | mãos to- cam em | nós. E- le
+
+# c.42-45 (impresos 43-46): repiten los impresos 10-13 medio tono arriba; c.43 Bar. la♮3; c.45 Bajo fa♭3; c.45 T2 corcheas si♭3-la♭3 ligadas (T1 negra mi♭4)
+@42
+T1: eb4 eb4/2 c4/8 db4/8 | eb4 eb4/2 db4/8 eb4/8 | f4 f4/2 db4/8 eb4/8 | ( eb4/8 db4/8_ ) db4/2 eb4
+T2: c4 c4/2 c4/8 db4/8 | db4 c4/2 db4/8 c4/8 | ( db4/8 eb4/8_ ) db4/2 bb3/8 c4/8 | ( c4/8 bb3/8_ ) bb3/2 ( bb3/8 ab3/8_ )
+B1: bb3 bb3/2 bb3/8 bb3/8 | an3 an3/2 an3/8 an3/8 | ab3 ab3/2 ab3/8 ab3/8 | ab3 ab3/2 ab3
+B2: g3 g3/2 gb3/8 gb3/8 | f3 f3/2 f3/8 f3/8 | bb2 bb2/2 f3/8 f3/8 | fb3 fb3/2 fb3
+L: gui- a nos- sos | pas- sos, nos en- | vol- ve em Seus | bra- ços. Deus
+
+# c.46-48 (impresos 47-49): 'Tempo do início' (♩=76); T2 corcheas ligadas en el 1er tiempo de c.46-47; c.48 mitad T1/T2 re♭4/si♭3 (verificado por perfil de píxeles)
+@46
+T1: tempo:76 !Tempo_do_início c4 c4/2 c4/8 f4/8 | c4 \dim c4/2 \! db4 | db4/2 eb4 ( db4/8 ab3/8_ )
+T2: ( ab3/8 bb3/8_ ) bb3/2 bb3/8 bb3/8 | ( bb3/8 g3/8_ ) an3/2 an3 | bb3/2 c4 ( bb3/8 ab3/8_ )
+B1: eb3 eb3/2 eb3/8 eb3/8 | eb3 eb3/2 f3 | ab3/2 g3 g3
+B2: eb3 eb3/2 g2/8 g2/8 | f2 f2/2 f3 | bb2/2 eb3 eb3
+L: ou- ve, Deus res- | pon- de, Deus | cui- da de
+
+# c.49-54 (impresos 50-55): c.49 graves fa♭3 (bemol impreso); c.50 'rall.'; c.51 T2 corchea con puntillo + semicorchea la♮3; c.52 figura semicorchea + corchea con puntillo en tenores; final redondas ligadas
+@49
+T1: \cresc c4/2 db4._ \! eb4/8 | c4 c4/2 !rall. f4/8 c4/8 | c4 c4/2 db4 | db4/2 eb4 db4/16 ab3/8._ | c4/1~ | c4/1
+T2: ab3/2 bb3._ bb3/8 | ( bb3/8 ab3/8_ ) ab3/2 bb3/8 bb3/8 | ( bb3/8. an3/16_ ) an3/2 an3 | bb3/2 c4 bb3/16 ab3/8._ | ab3/1~ | ab3/1
+B1: f3/2 ab3._ ab3/8 | eb3 eb3/2 eb3/8 eb3/8 | eb3 eb3/2 f3 | ab3/2 g3 f3 | eb3/1~ | eb3/1
+B2: f3/2 fb3._ fb3/8 | eb3 eb3/2 g2/8 gb2/8 | f2 f2/2 f3 | bb2/2 eb2 eb2 | ab2/1~ | ab2/1
+L: nós. Deus | ou- ve, Deus res- | pon- de, Deus | cui- da de | nós. |

@@ -2,7 +2,7 @@
 
 Transcripción a **cuarteto masculino TTBB** (Tenor 1, Tenor 2, Barítono, Bajo) de los PDF corales del repositorio.
 
-- **49 canciones transcritas** en `Español/`, `Inglés /`, `Navidad/` y `Rumano/`.
+- **50 canciones transcritas** en `Español/`, `Inglés /`, `Navidad/`, `Rumano/` y `Portugués/` (carpeta nueva, con «Deus ouve, Deus responde» y su PDF original).
 - **6 canciones bloqueadas**, sin transcribir (ver abajo).
 - Cada canción transcrita tiene **11 ficheros** en `<Carpeta>/<Canción>/`:
   - `Partitura_Grupal.pdf`
