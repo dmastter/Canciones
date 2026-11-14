@@ -23,7 +23,7 @@ B1: eb3/2 3[ eb3 eb3 d3 ] | d3/2. d3/8 g3/8 | a3 a3/2 a3/8 a3/8 | g#3 g#3/2 g#3/
 B2: c3/2 3[ c3 c3 g2 ] | g2/2. d3/8 d3/8 | f#3 f#3/2 fn3/8 fn3/8 | e3 e3/2 e3/8 e3/8 | a2 a2/2 e3/8 e3/8
 L: mãos to- cam em | nós. E- le | gui- a nos- sos | pas- sos, nos en- | vol- ve em Seus
 
-# c.12-18 (impresos 13-19); c.14 T2 sol#3 con dos sostenidos impresos junto al acorde (lectura sol#3+si3, acorde de Mi7: dudoso); c.18 'mel.' en el pentagrama de graves
+# c.12-18 (impresos 13-19); c.14 T2 sol#3 con dos sostenidos impresos junto al acorde (un solo sostenido de doble trazo: sol#3+si3, verificado por perfil de píxeles); c.18 'mel.' en el pentagrama de graves
 @12
 T1: ( d4/8 c4/8_ ) \dim c4/2 \! d4 | b3 b3/2 b3/8 e4/8 | b3 b3/2 c4 | c4/2 d4 ( c4/8 g3/8_ ) | b3/1 | r/1 | r \mp a3 a3 b3/8 c4/8
 T2: ( b3/8 a3/8_ ) a3/2 a3 | a3 a3/2 a3/8 a3/8 | a3 g#3/2 g#3 | a3/2 b3 ( a3/8 g3/8_ ) | g3/1 | r/1 | r a3 a3 b3/8 c4/8
@@ -39,12 +39,12 @@ B1: a3/2. r/8 e3/8 | e3/8 g3/8~ g3/2 e3/8 d3/8 | d3/1 | r f#3 f#3 g3/8 a3/8 | a3
 B2: a3/2. r/8 e3/8 | e3/8 e3/8~ e3/2 g2/8 g2/8 | g2/1 | r f#3 f#3 g3/8 a3/8 | a3/2. f#3/8 f#3/8
 L: vir a | nos- sa o- ra- | ção; | As pre- ces com | fé en- ter-
 
-# c.24 (impreso 25): tresillo de negras; graves del tresillo (la3/sol3, si3/sol3, do4/la3) PENDIENTE DE VERIFICAR con zoom
+# c.24 (impreso 25): tresillo de negras; graves del tresillo la3/sol3, si3/sol3, do4/sol3 (verificado por perfil de píxeles)
 @24
 T1: eb4/8 eb4. 3[ eb4 eb4 eb4 ]
 T2: c4/8 c4. 3[ c4 b3 a3 ]
 B1: a3/8 a3. 3[ a3 b3 c4 ]
-B2: g3/8 g3. 3[ g3 g3 a3 ]
+B2: g3/8 g3. 3[ g3 g3 g3 ]
 L: ne- cem Seu co- ra-
 
 # c.25-27 (impresos 26-28); c.25 graves a dos voces (Bar. plicas arriba, Bajo abajo)
@@ -63,7 +63,7 @@ B1: a3/8 a3/8~ a3/2 a3/8 a3/8 | a3/8 a3. g#3_ g#3/8 g#3/8
 B2: f#3/8 f#3/8~ f#3/2 f#3/8 f#3/8 | e3/8 e3.~ e3 e3/8 e3/8
 L: ne- ga Seus fa- | vo- res; Deus nos
 
-# c.30-31 (impresos 31-32); c.30 última corchea de tenores leída re4/si3 (el OMR da do4: VERIFICAR); c.31 T2 corcheas mi3-si3 con ligadura (melisma), T1 negra do#4
+# c.30-31 (impresos 31-32); c.30 última corchea de tenores leída re4/si3 (verificado por perfil de píxeles; el OMR daba do4); c.31 T2 corcheas mi3-si3 con ligadura (melisma), T1 negra do#4
 @30
 T1: d4/8 d4/8~ d4/2 d4/8 d4/8 | c#4. c#4/8 c#4 c#4
 T2: b3/8 a3/8~ a3/2 a3/8 b3/8 | a3. g3/8 g3 ( e3/8 b3/8_ )
@@ -89,7 +89,7 @@ B1: bb3 bb3/2 ab3/8 bb3/8 | g3 g3/2 bb3/8 g3/8 | f3 f3/2 f3/8 f3/8
 B2: ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8 | ab2 ab2/2 ab2/8 ab2/8
 L: ou- ve, Deus res- | pon- de, É tão | do- ce Su- a
 
-# c.37-41 (impresos 38-42); c.39 última corchea de tenores re♭4/si♭3 (el OMR da do4: VERIFICAR); c.40 'div.' con tresillo de negras; c.41 'mel.' en tenores
+# c.37-41 (impresos 38-42); c.39 última corchea de tenores re♭4/si♭3 (verificado por perfil de píxeles; el OMR daba do4); c.40 'div.' con tresillo de negras; c.41 'mel.' en tenores
 @37
 T1: db4/2 r db4 | db4 db4/2 db4/8 db4/8 | db4 db4/2 eb4/8 db4/8 | db4/2 3[ db4 db4 c4 ] | c4/2. c4/8 db4/8
 T2: bb3/2 r eb3 | bb3 bb3/2 bb3/8 c4/8 | bb3 bb3/2 c4/8 bb3/8 | bb3/2 3[ ab3 bb3 ab3 ] | ab3/2. ab3/8 bb3/8
